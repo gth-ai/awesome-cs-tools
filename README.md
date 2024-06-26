@@ -38,6 +38,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 #### Database
 - [UC Irvine Machine Learning](https://archive.ics.uci.edu): Currently maintain 665 datasets as a service to the machine learning community.
 - [paperswithcode](https://paperswithcode.com/datasets): Contains various Dataset with code and scientifs papers.
+- [Kaggle Datasets](https://www.kaggle.com/datasets): Various datasets hosted by Kaggle.
 
 ### ChatGPT Implementations
 - [Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): Awesome ChatGPT implementations.
