@@ -35,6 +35,10 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [doi2bib](https://www.doi2bib.org/):Give us a DOI
 - [Nexus](https://libstc.cc/#/):Help you to found any recent paper.
 
+#### Database
+- [UC Irvine Machine Learning](https://archive.ics.uci.edu): Currently maintain 665 datasets as a service to the machine learning community.
+- [paperswithcode](https://paperswithcode.com/datasets): Contains various Dataset with code and scientifs papers.
+
 ### ChatGPT Implementations
 - [Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): Awesome ChatGPT implementations.
 
