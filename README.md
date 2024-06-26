@@ -55,6 +55,9 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 
 ## For Computer Science Students
 ### Current Scholarship
+#### Africa
+#### Europe
+#### America
 Coming Soon
 
 ## Contributing
