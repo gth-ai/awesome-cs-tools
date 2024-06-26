@@ -14,6 +14,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [open-llms](https://github.com/gth-ai/open-llms): These LLMs (Large Language Models) are all licensed for commercial use (e.g., Apache 2.0, MIT, OpenRAIL-M). Contributions welcome!
 - [llama.cpp](https://github.com/ggerganov/llama.cpp): The main goal of `llama.cpp` is to enable LLM inference with minimal setup and state-of-the-art performance on a wide variety of hardware - locally and in the cloud.
 - [xplique](https://github.com/deel-ai/xplique): 🦊 **Xplique** (pronounced *\ɛks.plik\*) is a Python toolkit dedicated to explainability. The goal of this library is to gather the state of the art of Explainable AI to help you understand your complex neural network models. Originally built for Tensorflow's model it also works for PyTorch models partially.
+- [Perplexica](https://github.com/ItzCrazyKns/Perplexica): A open-source version of Perplexity : Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions. It uses advanced machine learning algorithms like similarity searching and embeddings to refine results and provides clear answers with sources cited.
 
 ### Free Courses and Resources
 - [ML-YouTube-Courses](https://github.com/gth-ai/ML-YouTube-Courses): A collection of Machine Learning courses available on YouTube.
