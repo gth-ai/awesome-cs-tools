@@ -25,6 +25,12 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week): A weekly list of top ML papers in your inbox.
 - [SyntheX](https://github.com/arcadelab/SyntheX): This repository contains the training and testing scripts on the three SyntheX applications, namely hip imaging, surgical tool detection and covid. The associated data is provided in a separate folder. Detailed running instructions can be found in each sub folder.
 - [awesome-object-detection](https://github.com/gth-ai/awesome-object-detection): This is a list of awesome articles about object detection.
+#### Tools 
+- [Medecine](https://github.com/primakov/precision-medicine-toolbox): precision-medicine-toolbox is an open-source python package for medical imaging data preparation for data science tasks. This package is aimed to provide a tool to curate the imaging data and to perform exploratory feature analysis.
+- [LanguageTool](https://github.com/languagetool-org/languagetool): An Open Source proofreading software for English, Spanish, French, German, Portuguese, Polish, Dutch, and more than 20 other languages. It finds many errors that a simple spell checker cannot detect.
+- [Online LaTeX diff tool](https://3142.nl/latex-diff/): An online free tool is a wrapper script for latexdiff, which is the LaTeX alternative to Track Changes in Microsoft Word. By using this tool you avoid the command line and having to install Perl. We do not keep copies of your documents.
+- [doi2bib](https://www.doi2bib.org/):Give us a DOI
+- [Nexus]((https://libstc.cc/#/)):Help you to found any recent paper.
 
 ### ChatGPT Implementations
 - [Awesome ChatGPT](https://github.com/stars/acheong08/lists/awesome-chatgpt): Awesome ChatGPT implementations.
