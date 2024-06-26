@@ -51,7 +51,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 ## Security
 
 ### Open Source Tools
-- [awesome-opensource-security](https://github.com/gth-ai/awesome-opensource-security): A list of interesting open-source security tools, mostly reviewed and commented by me. The repo updates on a daily basis or whenever something interesting is out.
+- [awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security): A list of interesting open-source security tools, mostly reviewed and commented by me. The repo updates on a daily basis or whenever something interesting is out.
 
 ## For Computer Science Students
 ### Current Scholarship
