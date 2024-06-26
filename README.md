@@ -1,4 +1,5 @@
 # Awesome CS Tools
+![Awesome CS Tools](ezgif-2-f5236de7c3.jpg)
 
 Welcome to the Awesome Computer Science Tools repository! This is a curated list of diverse tools and resources in computer science, covering areas such as Artificial Intelligence, Research, and Security. Each section includes open-source tools, free courses, and learning resources.
 
