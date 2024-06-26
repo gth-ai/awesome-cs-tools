@@ -30,7 +30,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 
 ## Dev
 
-Coming Soon !!!
+- [Awesome Dev Tools](https://github.com/markodenic/web-development-resources): Awesome project about Web Development resources.
 
 ## Security
 
