@@ -60,6 +60,8 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 #### Europe
 #### America
 Coming Soon
+### Free Certifications
+Coming Soon
 
 ## Contributing
 
