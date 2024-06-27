@@ -1,5 +1,5 @@
-# Awesome CS Tools
 ![Awesome CS Tools](ezgif-2-f5236de7c3.jpg)
+# Awesome CS Tools
 
 Welcome to the Awesome Computer Science Tools repository! This is a curated list of diverse tools and resources in computer science, covering areas such as Artificial Intelligence, Research, and Security. Each section includes open-source tools, free courses, and learning resources.
 
@@ -35,6 +35,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [LanguageTool](https://github.com/languagetool-org/languagetool): An Open Source proofreading software for English, Spanish, French, German, Portuguese, Polish, Dutch, and more than 20 other languages. It finds many errors that a simple spell checker cannot detect.
 - [Online LaTeX diff tool](https://3142.nl/latex-diff/): An online free tool is a wrapper script for latexdiff, which is the LaTeX alternative to Track Changes in Microsoft Word. By using this tool you avoid the command line and having to install Perl. We do not keep copies of your documents.
 - [doi2bib](https://www.doi2bib.org/):Give us a DOI
+- [Marker](https://github.com/VikParuchuri/marker): Converts PDF to markdown quickly and accurately.
 - [Nexus](https://libstc.cc/#/):Help you to found any recent paper.
 
 #### Database
