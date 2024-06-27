@@ -20,7 +20,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [Awesome-LLM](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
 
 ### Free Courses and Resources
-- [ML-YouTube-Courses](https://github.com/gth-ai/ML-YouTube-Courses): A collection of Machine Learning courses available on YouTube.
+- [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses): A collection of Machine Learning courses available on YouTube.
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Prompt Engineering Guide. Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics.
 - [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks): Companion Jupyter notebooks for the book "Deep Learning with Python". This repository contains Jupyter notebooks implementing the code samples found in the book Deep Learning with Python, 2nd Edition (Manning Publications).
 
