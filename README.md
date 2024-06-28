@@ -20,6 +20,12 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [Awesome-LLM](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
 - [Gemma.cpp Google](https://github.com/google/gemma.cpp): A lightweight, standalone C++ inference engine for the Gemma foundation models from Google.
 
+### Free Alternative App to ChatGPT:
+- [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
+- [HuggingFaceChat](https://huggingface.co/chat/assistants): Free alternative to GPTs of ChatGPT.
+- [Gemini](https://gemini.google.com/app): Google AI ChatBot.
+
+  
 ### Free Courses and Resources
 - [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses): A collection of Machine Learning courses available on YouTube.
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Prompt Engineering Guide. Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics.
