@@ -32,7 +32,8 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks): Companion Jupyter notebooks for the book "Deep Learning with Python". This repository contains Jupyter notebooks implementing the code samples found in the book Deep Learning with Python, 2nd Edition (Manning Publications).
 
 #### For French 🇫🇷 Speakers 
-- [Fondamental Deep Learning Courses](https://www.youtube.com/playlist?list=PLO_fdPEVlfKoanjvTJbIbd9V5d9Pzp8Rw): A serie of Fondamental Deep Learning courses on YouTube by Machine Learnia. 
+- [Fondamental Deep Learning Courses](https://www.youtube.com/playlist?list=PLO_fdPEVlfKoanjvTJbIbd9V5d9Pzp8Rw): A serie of Fondamental Deep Learning courses on YouTube by Machine Learnia.
+- [Deep learning course at New York University](https://lbourdois.github.io/cours-dl-nyu/): The course by Yann LE CUN (Godfather of DL) and Alfredo CANZIANI, translated into French by Loïck BOURDOIS
 
 ### Research and Papers
 - [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week): A weekly list of top ML papers in your inbox.
