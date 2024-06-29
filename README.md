@@ -31,6 +31,9 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Prompt Engineering Guide. Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics.
 - [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks): Companion Jupyter notebooks for the book "Deep Learning with Python". This repository contains Jupyter notebooks implementing the code samples found in the book Deep Learning with Python, 2nd Edition (Manning Publications).
 
+#### For French 🇫🇷 Speakers 
+- [Fondamental Deep Learning Courses](https://www.youtube.com/playlist?list=PLO_fdPEVlfKoanjvTJbIbd9V5d9Pzp8Rw): A serie of Fondamental Deep Learning courses on YouTube by Machine Learnia. 
+
 ### Research and Papers
 - [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week): A weekly list of top ML papers in your inbox.
 - [SyntheX](https://github.com/arcadelab/SyntheX): This repository contains the training and testing scripts on the three SyntheX applications, namely hip imaging, surgical tool detection and covid. The associated data is provided in a separate folder. Detailed running instructions can be found in each sub folder.
