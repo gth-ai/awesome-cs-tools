@@ -41,6 +41,8 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [SyntheX](https://github.com/arcadelab/SyntheX): This repository contains the training and testing scripts on the three SyntheX applications, namely hip imaging, surgical tool detection and covid. The associated data is provided in a separate folder. Detailed running instructions can be found in each sub folder.
 - [awesome-object-detection](https://github.com/gth-ai/awesome-object-detection): This is a list of awesome articles about object detection.
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision): A curated list of awesome computer vision resources.
+- [deeplearning-biology](https://github.com/hussius/deeplearning-biology): This is a list of implementations of deep learning methods to biology, originally published on Follow the Data. There is a slant towards genomics because that's the subfield that I follow most closely.
+- [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio): A curated list of awesome deep learning applications in the field of computational biology.
   
 #### Tools 
 - [Medecine](https://github.com/primakov/precision-medicine-toolbox): precision-medicine-toolbox is an open-source python package for medical imaging data preparation for data science tasks. This package is aimed to provide a tool to curate the imaging data and to perform exploratory feature analysis.
