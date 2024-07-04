@@ -25,6 +25,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
 - [HuggingFaceChat](https://huggingface.co/chat/assistants): Free alternative to GPTs of ChatGPT.
 - [Gemini](https://gemini.google.com/app): Google AI ChatBot.
+- [Moshi](https://us.moshi.chat/?queue_id=talktomoshi): Moshi is an experimental conversational AI. Take everything it says with a grain of salt.
 
   
 ### Free Courses and Resources
