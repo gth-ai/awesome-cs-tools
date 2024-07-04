@@ -38,6 +38,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 
 ### Research and Papers
 - [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week): A weekly list of top ML papers in your inbox.
+- [Awesome Generative AI](https://github.com/aishwaryanr/awesome-generative-ai-guide): Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
 - [SyntheX](https://github.com/arcadelab/SyntheX): This repository contains the training and testing scripts on the three SyntheX applications, namely hip imaging, surgical tool detection and covid. The associated data is provided in a separate folder. Detailed running instructions can be found in each sub folder.
 - [awesome-object-detection](https://github.com/gth-ai/awesome-object-detection): This is a list of awesome articles about object detection.
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision): A curated list of awesome computer vision resources.
