@@ -37,6 +37,9 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [Fondamental Deep Learning Courses](https://www.youtube.com/playlist?list=PLO_fdPEVlfKoanjvTJbIbd9V5d9Pzp8Rw): A serie of Fondamental Deep Learning courses on YouTube by Machine Learnia.
 - [Deep learning course at New York University](https://lbourdois.github.io/cours-dl-nyu/): The course by Yann LE CUN (Godfather of DL) and Alfredo CANZIANI, translated into French by Loïck BOURDOIS
 
+#### Large (Language & Vision) Models
+- [Quaality Prompts](https://github.com/sarthakrastogi/quality-prompts): QualityPrompts implements 58 prompting techniques.
+
 ### Research and Papers
 - [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week): A weekly list of top ML papers in your inbox.
 - [Awesome Generative AI](https://github.com/aishwaryanr/awesome-generative-ai-guide): Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
