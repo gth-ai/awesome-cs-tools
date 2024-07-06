@@ -42,7 +42,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [Quality Prompts](https://github.com/sarthakrastogi/quality-prompts): QualityPrompts implements 58 prompting techniques.
   
 #### RAG (Retrieval-Augmented Generation)
-- [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
+- [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your RAG pipelines.
 - [RAGs](https://github.com/run-llama/rags): RAGs is a Streamlit app that lets you create a RAG pipeline from a data source using natural language.
 - [RAGFlow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG engine based on deep document understanding.
 
