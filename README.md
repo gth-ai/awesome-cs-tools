@@ -40,10 +40,11 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 ### Large (Language & Vision) Models
 #### Tools
 - [Quality Prompts](https://github.com/sarthakrastogi/quality-prompts): QualityPrompts implements 58 prompting techniques.
-#### RAG
+  
+#### RAG (Retrieval-Augmented Generation)
 - [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
 - [RAGs](https://github.com/run-llama/rags): RAGs is a Streamlit app that lets you create a RAG pipeline from a data source using natural language.
-- [RAGFlow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [RAGFlow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG engine based on deep document understanding.
 
 ### Research and Papers
 - [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week): A weekly list of top ML papers in your inbox.
