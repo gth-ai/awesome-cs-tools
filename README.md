@@ -38,7 +38,10 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [Deep learning course at New York University](https://lbourdois.github.io/cours-dl-nyu/): The course by Yann LE CUN (Godfather of DL) and Alfredo CANZIANI, translated into French by Loïck BOURDOIS
 
 ### Large (Language & Vision) Models
-- [Quaality Prompts](https://github.com/sarthakrastogi/quality-prompts): QualityPrompts implements 58 prompting techniques.
+#### Tools
+- [Quality Prompts](https://github.com/sarthakrastogi/quality-prompts): QualityPrompts implements 58 prompting techniques.
+#### RAG
+- [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your Retrieval Augmented Generation (RAG) pipelines.
 
 ### Research and Papers
 - [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week): A weekly list of top ML papers in your inbox.
