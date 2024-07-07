@@ -46,6 +46,8 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [RAGs](https://github.com/run-llama/rags): RAGs is a Streamlit app that lets you create a RAG pipeline from a data source using natural language.
 - [RAGFlow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG engine based on deep document understanding.
 
+> This section was created as a tribute to my mentor, a RAG godfather.
+
 ### Research and Papers
 - [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week): A weekly list of top ML papers in your inbox.
 - [Awesome Generative AI](https://github.com/aishwaryanr/awesome-generative-ai-guide): Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
