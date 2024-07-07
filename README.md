@@ -17,7 +17,6 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [xplique](https://github.com/deel-ai/xplique): 🦊 **Xplique** (pronounced *\ɛks.plik\*) is a Python toolkit dedicated to explainability. The goal of this library is to gather the state of the art of Explainable AI to help you understand your complex neural network models. Originally built for Tensorflow's model it also works for PyTorch models partially.
 - [OpenMMLab](https://github.com/open-mmlab): OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era.
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica): A open-source version of Perplexity : Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions. It uses advanced machine learning algorithms like similarity searching and embeddings to refine results and provides clear answers with sources cited.
-- [Awesome-LLM](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
 - [Gemma.cpp Google](https://github.com/google/gemma.cpp): A lightweight, standalone C++ inference engine for the Gemma foundation models from Google.
 - [Ax](https://github.com/ax-llm/ax): Build intelligent agents with ease, inspired by the power of "Agentic workflows" and the Stanford DSP paper. Seamlessly integrates with multiple LLMs and VectorDBs to build RAG pipelines or collaborative agents that can solve complex problems. Advanced features streaming validation, multi-modal DSP, etc.
 
@@ -41,6 +40,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 #### Tools
 - [Quality Prompts](https://github.com/sarthakrastogi/quality-prompts): QualityPrompts implements 58 prompting techniques.
 - [InternLM](https://github.com/InternLM/InternLM): tops open LLM leaderboard for models under 12B.
+- [Awesome-LLM](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
   
 #### RAG (Retrieval-Augmented Generation)
 - [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your RAG pipelines.
