@@ -40,6 +40,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 ### Large (Language & Vision) Models
 #### Tools
 - [Quality Prompts](https://github.com/sarthakrastogi/quality-prompts): QualityPrompts implements 58 prompting techniques.
+- [InternLM](https://github.com/InternLM/InternLM): tops open LLM leaderboard for models under 12B.
   
 #### RAG (Retrieval-Augmented Generation)
 - [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your RAG pipelines.
