@@ -25,6 +25,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [HuggingFaceChat](https://huggingface.co/chat/assistants): Free alternative to GPTs of ChatGPT.
 - [Gemini](https://gemini.google.com/app): Google AI ChatBot.
 - [Moshi](https://us.moshi.chat/?queue_id=talktomoshi): Moshi is an experimental conversational AI. Take everything it says with a grain of salt.
+- [Nomic GPT4All](https://www.nomic.ai/gpt4all): Nomic's new LLM desktop app supports thousands of LLMs
 
   
 ### Free Courses and Resources
