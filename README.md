@@ -19,13 +19,14 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica): A open-source version of Perplexity : Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions. It uses advanced machine learning algorithms like similarity searching and embeddings to refine results and provides clear answers with sources cited.
 - [Gemma.cpp Google](https://github.com/google/gemma.cpp): A lightweight, standalone C++ inference engine for the Gemma foundation models from Google.
 - [Ax](https://github.com/ax-llm/ax): Build intelligent agents with ease, inspired by the power of "Agentic workflows" and the Stanford DSP paper. Seamlessly integrates with multiple LLMs and VectorDBs to build RAG pipelines or collaborative agents that can solve complex problems. Advanced features streaming validation, multi-modal DSP, etc.
+- [DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed empowers ChatGPT-like model training with a single click, offering 15x speedup over SOTA RLHF systems with unprecedented cost reduction at all scales.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
 - [HuggingFaceChat](https://huggingface.co/chat/assistants): Free alternative to GPTs of ChatGPT.
 - [Gemini](https://gemini.google.com/app): Google AI ChatBot.
 - [Moshi](https://us.moshi.chat/?queue_id=talktomoshi): Moshi is an experimental conversational AI. Take everything it says with a grain of salt.
-- [Nomic GPT4All](https://www.nomic.ai/gpt4all): Nomic's new LLM desktop app supports thousands of LLMs
+- [Nomic GPT4All](https://www.nomic.ai/gpt4all): Nomic's new LLM desktop app supports thousands of LLMs.
 
   
 ### Free Courses and Resources
