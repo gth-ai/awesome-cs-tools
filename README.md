@@ -74,6 +74,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 - [paperswithcode](https://paperswithcode.com/datasets): Contains various Dataset with code and scientifs papers.
 - [Kaggle Datasets](https://www.kaggle.com/datasets): Various datasets hosted by Kaggle.
 - [HuggingFace🤗 Datasets](https://huggingface.co/datasets): Various datasets for Deep Learning and NLP hosted by Hugging Face.
+- [re3data](https://www.re3data.org/): re3data is an online directory of research data repositories. This tool is designed to help researchers, research institutions and data managers find suitable repositories to store, share and preserve their research data.
 
 #### HPC (High Performance Computing)
 - [helpwiki sharcnet](https://helpwiki.sharcnet.ca/wiki/Online_Seminars) : Recordings of most of her webinars can be found on SHARCNET youtube channel. SHARCNET is the largest high performance computing consortium in Canada, involving 19 universities and colleges across southern, central and northern Ontario.
