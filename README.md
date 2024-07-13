@@ -88,6 +88,7 @@ Welcome to the Awesome Computer Science Tools repository! This is a curated list
 ### Open Source Tools
 - [Awesome Dev Tools](https://github.com/markodenic/web-development-resources): Awesome project about Web Development resources.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin):A platform for autonomous software engineers, powered by AI and LLMs. OpenDevin agents collaborate with human developers to write code, fix bugs, and ship features.
+- [websim AI](https://websim.ai/): Create and discover worlds with WebSim, the browser for imagination. 
 
 ## Security
 
