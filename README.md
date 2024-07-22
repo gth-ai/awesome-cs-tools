@@ -47,6 +47,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Quality Prompts](https://github.com/sarthakrastogi/quality-prompts): QualityPrompts implements 58 prompting techniques.
 - [InternLM](https://github.com/InternLM/InternLM): tops open LLM leaderboard for models under 12B.
 - [Awesome-LLM](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024).
   
 #### RAG (Retrieval-Augmented Generation)
 - [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your RAG pipelines.
