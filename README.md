@@ -23,6 +23,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed empowers ChatGPT-like model training with a single click, offering 15x speedup over SOTA RLHF systems with unprecedented cost reduction at all scales.
 - [Gradio](https://www.gradio.app/): Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere!
 - [Dough](https://github.com/banodoco/Dough): Dough is a tool for crafting videos with AI. The goal is to give you enough control over video generations that you can make beautiful creations of anything you imagine that feel uniquely your own.
+- [Mem0](https://github.com/mem0ai/mem0) : Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
