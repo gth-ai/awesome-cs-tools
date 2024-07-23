@@ -81,6 +81,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [HuggingFace🤗 Datasets](https://huggingface.co/datasets): Various datasets for Deep Learning and NLP hosted by Hugging Face.
 - [re3data](https://www.re3data.org/): re3data is an online directory of research data repositories. This tool is designed to help researchers, research institutions and data managers find suitable repositories to store, share and preserve their research data.
 - [Google Dataset Search](https://datasetsearch.research.google.com/): Google Dataset Search is an online tool developed by Google to help researchers and professionals find datasets available on the web.
+- [Roboflow](https://universe.roboflow.com/): The world's largest collection of open source computer vision datasets and APIs.
 
 #### HPC (High Performance Computing)
 - [helpwiki sharcnet](https://helpwiki.sharcnet.ca/wiki/Online_Seminars) : Recordings of most of her webinars can be found on SHARCNET youtube channel. SHARCNET is the largest high performance computing consortium in Canada, involving 19 universities and colleges across southern, central and northern Ontario.
