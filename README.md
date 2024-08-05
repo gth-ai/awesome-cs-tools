@@ -33,6 +33,9 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Moshi](https://us.moshi.chat/?queue_id=talktomoshi): Moshi is an experimental conversational AI. Take everything it says with a grain of salt.
 - [Nomic GPT4All](https://www.nomic.ai/gpt4all): Nomic's new LLM desktop app supports thousands of LLMs.
 
+### Image Generation
+- [FLUX](https://blackforestlabs.ai/#get-flux): offering state-of-the-art performance image generation with top of the line prompt following, visual quality, image detail and output diversity.
+
   
 ### Free Courses and Resources
 - [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses): A collection of Machine Learning courses available on YouTube.
