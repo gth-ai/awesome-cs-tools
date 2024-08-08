@@ -17,7 +17,6 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [llama.cpp](https://github.com/ggerganov/llama.cpp): The main goal of `llama.cpp` is to enable LLM inference with minimal setup and state-of-the-art performance on a wide variety of hardware - locally and in the cloud.
 - [xplique](https://github.com/deel-ai/xplique): 🦊 **Xplique** (pronounced *\ɛks.plik\*) is a Python toolkit dedicated to explainability. The goal of this library is to gather the state of the art of Explainable AI to help you understand your complex neural network models. Originally built for Tensorflow's model it also works for PyTorch models partially.
 - [OpenMMLab](https://github.com/open-mmlab): OpenMMLab builds the most influential open-source computer vision algorithm system in the deep learning era.
-- [Perplexica](https://github.com/ItzCrazyKns/Perplexica): A open-source version of Perplexity : Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions. It uses advanced machine learning algorithms like similarity searching and embeddings to refine results and provides clear answers with sources cited.
 - [Gemma.cpp Google](https://github.com/google/gemma.cpp): A lightweight, standalone C++ inference engine for the Gemma foundation models from Google.
 - [Ax](https://github.com/ax-llm/ax): Build intelligent agents with ease, inspired by the power of "Agentic workflows" and the Stanford DSP paper. Seamlessly integrates with multiple LLMs and VectorDBs to build RAG pipelines or collaborative agents that can solve complex problems. Advanced features streaming validation, multi-modal DSP, etc.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed): DeepSpeed empowers ChatGPT-like model training with a single click, offering 15x speedup over SOTA RLHF systems with unprecedented cost reduction at all scales.
@@ -32,6 +31,10 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Gemini](https://gemini.google.com/app): Google AI ChatBot.
 - [Moshi](https://us.moshi.chat/?queue_id=talktomoshi): Moshi is an experimental conversational AI. Take everything it says with a grain of salt.
 - [Nomic GPT4All](https://www.nomic.ai/gpt4all): Nomic's new LLM desktop app supports thousands of LLMs.
+
+## Free Alternative App to Perplexity:
+- [Perplexica](https://github.com/ItzCrazyKns/Perplexica): A open-source version of Perplexity : Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions. It uses advanced machine learning algorithms like similarity searching and embeddings to refine results and provides clear answers with sources cited.
+- [MindSearch](https://github.com/InternLM/MindSearch): MindSearch is an open-source AI Search Engine Framework with Perplexity.ai Pro performance. You can simply deploy it with your own perplexity.ai style search engine with either close-source LLMs (GPT, Claude) or open-source LLMs (InternLM2.5-7b-chat).
 
 ### Image Generation
 - [FLUX](https://blackforestlabs.ai/#get-flux): offering state-of-the-art performance image generation with top of the line prompt following, visual quality, image detail and output diversity.
