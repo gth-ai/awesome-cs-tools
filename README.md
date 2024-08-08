@@ -32,7 +32,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Moshi](https://us.moshi.chat/?queue_id=talktomoshi): Moshi is an experimental conversational AI. Take everything it says with a grain of salt.
 - [Nomic GPT4All](https://www.nomic.ai/gpt4all): Nomic's new LLM desktop app supports thousands of LLMs.
 
-## Free Alternative App to Perplexity:
+### Free Alternative App to Perplexity:
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica): A open-source version of Perplexity : Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions. It uses advanced machine learning algorithms like similarity searching and embeddings to refine results and provides clear answers with sources cited.
 - [MindSearch](https://github.com/InternLM/MindSearch): MindSearch is an open-source AI Search Engine Framework with Perplexity.ai Pro performance. You can simply deploy it with your own perplexity.ai style search engine with either close-source LLMs (GPT, Claude) or open-source LLMs (InternLM2.5-7b-chat).
 
