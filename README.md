@@ -81,6 +81,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Marker](https://github.com/VikParuchuri/marker): Converts PDF to markdown quickly and accurately.
 - [Nexus](https://libstc.cc/#/):Help you to found any recent paper.
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist): The first comprehensive system for fully automatic scientific discovery, enabling Foundation Models such as Large Language Models (LLMs) to perform research independently.
+- [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit):PDF documents contain a wealth of knowledge, yet extracting high-quality content from PDFs is not an easy task.
 
 #### Database
 - [UC Irvine Machine Learning](https://archive.ics.uci.edu): Currently maintain 665 datasets as a service to the machine learning community.
