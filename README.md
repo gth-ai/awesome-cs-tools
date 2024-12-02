@@ -37,6 +37,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Ichigo](https://github.com/homebrewltd/ichigo):Local real-time voice AI (Formerly llama3-s). It's an open, ongoing research experiment to extend a text-based LLM to have native "listening" ability. Think of it as an open data, open weight, on device Siri.
 - [Deepseek](https://chat.deepseek.com/): A chineese competitor of 01-preview of ChatGPT.
 - [LeChat](https://chat.mistral.ai/chat): The recent updates to LeChat by MistralAI make it a solid alternative to ChatGPT Plus (Paid Version) thanks to the following features: Web Search with Citations, Canvas for Ideation, Online Editing, and Exportation.
+- [Ai2](https://playground.allenai.org/): a fully open language model, outperforming Llama 3.1.
 
 ### Free Alternative App to Perplexity:
 - [Perplexica](https://github.com/ItzCrazyKns/Perplexica): A open-source version of Perplexity : Perplexica is an open-source AI-powered searching tool or an AI-powered search engine that goes deep into the internet to find answers. Inspired by Perplexity AI, it's an open-source option that not just searches the web but understands your questions. It uses advanced machine learning algorithms like similarity searching and embeddings to refine results and provides clear answers with sources cited.
