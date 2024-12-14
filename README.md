@@ -111,7 +111,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 ### Open Source Tools
 - [Awesome Dev Tools](https://github.com/markodenic/web-development-resources): Awesome project about Web Development resources.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin):A platform for autonomous software engineers, powered by AI and LLMs. OpenDevin agents collaborate with human developers to write code, fix bugs, and ship features.
-- [websim AI](https://websim.ai/): Create and discover worlds with WebSim, the browser for imagination. 
+- [Websim AI](https://websim.ai/): Create and discover worlds with WebSim, the browser for imagination.
+- [Docling](https://github.com/DS4SD/docling): Docling parses documents and exports them to the desired format with ease and speed.
 
 ## Security
 
