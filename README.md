@@ -63,6 +63,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Awesome-LLM](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024).
 - [Prompt engineering interactive tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial): This course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude.
+- [Opik](https://github.com/comet-ml/opik): Open-source end-to-end LLM Development Platform.
   
 #### RAG (Retrieval-Augmented Generation)
 - [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your RAG pipelines.
