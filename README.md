@@ -70,6 +70,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [RAGs](https://github.com/run-llama/rags): RAGs is a Streamlit app that lets you create a RAG pipeline from a data source using natural language.
 - [RAGFlow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG engine based on deep document understanding.
 - [GraphRAG](https://github.com/microsoft/graphrag): The GraphRAG project is a data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs.
+- [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. 
 
 > This section was created as a tribute to my mentor, a RAG godfather.
 
