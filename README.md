@@ -31,6 +31,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 ### Open Source Agent Tools
 - [OpenManus](https://github.com/mannaandpoem/OpenManus): is an open-source project aimed at replicating the capabilities of the Manus AI agent, a groundbreaking general-purpose AI developed by Monica. 
 - [ANUS](https://github.com/nikmcfly/ANUS): is a powerful, flexible, and accessible open-source AI agent framework designed to revolutionize task automation. Built with modern AI technologies and best practices, Anus represents the next generation of AI agent frameworks, offering unparalleled capabilities and ease of use.
+- [OWL](https://github.com/camel-ai/owl): OWL is a cutting-edge framework for multi-agent collaboration that pushes the boundaries of task automation, built on top of the CAMEL-AI Framework.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
