@@ -26,7 +26,11 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [FastHtml](https://www.fastht.ml/) : Built on solid web foundations, not the latest fads - with FastHTML you can get started on anything from simple dashboards to scalable web applications in minutes.
 - [Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) : An AI-powered file management tool that ensures privacy by organizing local texts, images, and PDFs.
 - [AutoDAN-Turbo](https://github.com/SaFoLab-WISC/AutoDAN-Turbo): AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs.
-- [SMRY.ai](https://github.com/mrmps/SMRY): Revolutionizing article reading and paywall bypass with the power of AI. This tool generates summaries and gets past hard to avoid paywalls by using archive.org, googlebot, and (soon) archive.is, harnessing the advanced capabilities of OpenAI's ChatGPT API and the Vercel AI SDK. 
+- [SMRY.ai](https://github.com/mrmps/SMRY): Revolutionizing article reading and paywall bypass with the power of AI. This tool generates summaries and gets past hard to avoid paywalls by using archive.org, googlebot, and (soon) archive.is, harnessing the advanced capabilities of OpenAI's ChatGPT API and the Vercel AI SDK.
+
+### Open Source Agent Tools
+- [OpenManus](https://github.com/mannaandpoem/OpenManus): is an open-source project aimed at replicating the capabilities of the Manus AI agent, a groundbreaking general-purpose AI developed by Monica. 
+- [ANUS](https://github.com/nikmcfly/ANUS): is a powerful, flexible, and accessible open-source AI agent framework designed to revolutionize task automation. Built with modern AI technologies and best practices, Anus represents the next generation of AI agent frameworks, offering unparalleled capabilities and ease of use.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
