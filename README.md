@@ -121,6 +121,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin):A platform for autonomous software engineers, powered by AI and LLMs. OpenDevin agents collaborate with human developers to write code, fix bugs, and ship features.
 - [Websim AI](https://websim.ai/): Create and discover worlds with WebSim, the browser for imagination.
 - [Docling](https://github.com/DS4SD/docling): Docling parses documents and exports them to the desired format with ease and speed.
+- [Awesome MCP Servers](https://github.com/appcypher/awesome-mcp-servers): A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
 
 ## Security
 
