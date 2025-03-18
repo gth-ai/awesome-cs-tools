@@ -123,6 +123,9 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Docling](https://github.com/DS4SD/docling): Docling parses documents and exports them to the desired format with ease and speed.
 - [Awesome MCP Servers](https://github.com/appcypher/awesome-mcp-servers): A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
 
+### API
+- [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
+
 ## Security
 
 ### Open Source Tools
