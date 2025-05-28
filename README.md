@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/gth-ai-awesome-cs-tools-badge.png)](https://mseep.ai/app/gth-ai-awesome-cs-tools)
+
 ![Awesome CS Tools](ezgif-2-f5236de7c3.jpg)
 # Awesome CS Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/gth-ai/awesome-cs-tools)
 
