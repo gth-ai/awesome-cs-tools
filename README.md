@@ -35,6 +35,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [OpenManus](https://github.com/mannaandpoem/OpenManus): is an open-source project aimed at replicating the capabilities of the Manus AI agent, a groundbreaking general-purpose AI developed by Monica. 
 - [ANUS](https://github.com/nikmcfly/ANUS): is a powerful, flexible, and accessible open-source AI agent framework designed to revolutionize task automation. Built with modern AI technologies and best practices, Anus represents the next generation of AI agent frameworks, offering unparalleled capabilities and ease of use.
 - [OWL](https://github.com/camel-ai/owl): OWL is a cutting-edge framework for multi-agent collaboration that pushes the boundaries of task automation, built on top of the CAMEL-AI Framework.
+- [OpenClaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
@@ -127,7 +128,6 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Awesome MCP Servers](https://github.com/appcypher/awesome-mcp-servers): A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
 - [Crawl4ai](https://github.com/unclecode/crawl4ai): is the #1 trending GitHub repository, actively maintained by a vibrant community. It delivers blazing-fast, AI-ready web crawling tailored for LLMs, AI agents, and data pipelines. Open source, flexible, and built for real-time performance, Crawl4AI empowers developers with unmatched speed, precision, and deployment ease.
 - [Google AI Edge Gallery](https://github.com/google-ai-edge/gallery): The Google AI Edge Gallery is an experimental app that puts the power of cutting-edge Generative AI models directly into your hands, running entirely on your Android (available now) and iOS (coming soon) devices. Dive into a world of creative and practical AI use cases, all running locally, without needing an internet connection once the model is loaded. Experiment with different models, chat, ask questions with images, explore prompts, and more!
-- [OpenClaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way.
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills): The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 
 ### API
