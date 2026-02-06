@@ -40,6 +40,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [LangGraph](https://github.com/langchain-ai/langgraph): Framework for building stateful, multi-actor applications with LLMs, integrates MCP for tool plug-and-play.
 - [Atomic Agents](https://github.com/BerriAI/atomicagents): Open-source library designed to simplify the creation of multi-agent systems.
 - [Browser-Use](https://github.com/browser-use/browser): Web automation framework with multi-threaded browser searches (20 steps/min), now with Parallel AI integration.
+- [nanobot](https://github.com/HKUDS/nanobot): Ultra-lightweight personal AI assistant optimized for minimal resource usage while maintaining core assistant functionality. MIT licensed.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
@@ -106,6 +107,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Nexus](https://libstc.cc/#/):Help you to found any recent paper.
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist): The first comprehensive system for fully automatic scientific discovery, enabling Foundation Models such as Large Language Models (LLMs) to perform research independently.
 - [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit):PDF documents contain a wealth of knowledge, yet extracting high-quality content from PDFs is not an easy task.
+- [GLM-OCR](https://github.com/zai-org/GLM-OCR): A 0.9B-parameter multimodal OCR model by Zhipu AI achieving state-of-the-art on OmniDocBench. Outputs semantic Markdown, JSON, LaTeX with 100+ language support.
 
 #### Database
 - [UC Irvine Machine Learning](https://archive.ics.uci.edu): Currently maintain 665 datasets as a service to the machine learning community.
@@ -136,6 +138,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [OpenHands](https://github.com/openhands/openhands): Open platform for cloud coding agents, model-agnostic and enterprise-ready.
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills): The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 - [E2B](https://github.com/e2b-dev/e2b): Open-source platform for agent orchestration and local data sovereignty.
+- [claude-mem](https://github.com/thedotmack/claude-mem): A Claude Code plugin that automatically captures coding sessions, compresses them with AI, and injects relevant context into future sessions. Adds persistent memory to AI coding assistants.
 
 ### API
 - [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
