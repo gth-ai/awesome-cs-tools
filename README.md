@@ -42,6 +42,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Atomic Agents](https://github.com/BerriAI/atomicagents): Open-source library designed to simplify the creation of multi-agent systems.
 - [Browser-Use](https://github.com/browser-use/browser): Web automation framework with multi-threaded browser searches (20 steps/min), now with Parallel AI integration.
 - [nanobot](https://github.com/HKUDS/nanobot): Ultra-lightweight personal AI assistant optimized for minimal resource usage while maintaining core assistant functionality. MIT licensed.
+- [VisionClaw](https://github.com/sseanliu/VisionClaw): Real-time AI assistant for Meta Ray-Ban smart glasses. See what you see, hear what you say, and take actions on your behalf -- all through voice. Built on Meta Wearables SDK + Gemini Live API + OpenClaw.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
