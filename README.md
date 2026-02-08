@@ -43,6 +43,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Browser-Use](https://github.com/browser-use/browser): Web automation framework with multi-threaded browser searches (20 steps/min), now with Parallel AI integration.
 - [nanobot](https://github.com/HKUDS/nanobot): Ultra-lightweight personal AI assistant optimized for minimal resource usage while maintaining core assistant functionality. MIT licensed.
 - [VisionClaw](https://github.com/sseanliu/VisionClaw): Real-time AI assistant for Meta Ray-Ban smart glasses. See what you see, hear what you say, and take actions on your behalf -- all through voice. Built on Meta Wearables SDK + Gemini Live API + OpenClaw.
+- [Monty](https://github.com/pydantic/monty): Minimal, secure Python interpreter written in Rust for AI agents. Microsecond startup, strict sandboxing vs Docker's 195ms. Enables safe code execution without containers.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
@@ -102,6 +103,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
   
 #### Tools 
 - [Medecine](https://github.com/primakov/precision-medicine-toolbox): precision-medicine-toolbox is an open-source python package for medical imaging data preparation for data science tasks. This package is aimed to provide a tool to curate the imaging data and to perform exploratory feature analysis.
+- [Dexter](https://github.com/virattt/dexter): Autonomous financial research agent with intelligent task planning, self-validation, and real-time market data access (income statements, balance sheets).
+- [LangExtract](https://github.com/google/langextract): Google's Python library for extracting structured info from unstructured text using LLMs. Features source grounding, interactive visualization, parallel processing.
 - [LanguageTool](https://github.com/languagetool-org/languagetool): An Open Source proofreading software for English, Spanish, French, German, Portuguese, Polish, Dutch, and more than 20 other languages. It finds many errors that a simple spell checker cannot detect.
 - [Online LaTeX diff tool](https://3142.nl/latex-diff/): An online free tool is a wrapper script for latexdiff, which is the LaTeX alternative to Track Changes in Microsoft Word. By using this tool you avoid the command line and having to install Perl. We do not keep copies of your documents.
 - [doi2bib](https://www.doi2bib.org/):Give us a DOI
@@ -141,6 +144,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills): The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 - [E2B](https://github.com/e2b-dev/e2b): Open-source platform for agent orchestration and local data sovereignty.
 - [claude-mem](https://github.com/thedotmack/claude-mem): A Claude Code plugin that automatically captures coding sessions, compresses them with AI, and injects relevant context into future sessions. Adds persistent memory to AI coding assistants.
+- [Superpowers](https://github.com/obra/superpowers): Agentic skills framework & software development methodology. Automatic planning, TDD, subagent workflows. Works with Claude Code, Codex, OpenCode.
 
 ### API
 - [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
@@ -150,6 +154,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 ### Open Source Tools
 - [awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security): A list of interesting open-source security tools, mostly reviewed and commented by me. The repo updates on a daily basis or whenever something interesting is out.
 - [Snyk Open Source](https://github.com/snyk/snyk): AI agent for detecting and remediating open source vulnerabilities in codebases.
+- [Shannon](https://github.com/KeygraphHQ/shannon): Fully autonomous AI pentester that finds actual exploits in web apps. Achieved 96.15% success rate on XBOW Benchmark. Tests for injection, XSS, SSRF, and broken authentication.
 
 ## For Computer Science Students
 ### Current Scholarship
