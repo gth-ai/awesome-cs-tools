@@ -33,6 +33,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [SMRY.ai](https://github.com/mrmps/SMRY): Revolutionizing article reading and paywall bypass with the power of AI. This tool generates summaries and gets past hard to avoid paywalls by using archive.org, googlebot, and (soon) archive.is, harnessing the advanced capabilities of OpenAI's ChatGPT API and the Vercel AI SDK.
 
 ### Open Source Agent Tools
+- [Mastra](https://github.com/mastra-ai/mastra): TypeScript framework to build production AI agents and workflows with memory, tools, and eval support.
+- [PydanticAI](https://github.com/pydantic/pydantic-ai): Python agent framework focused on type-safe LLM apps with Pydantic models, tools, and structured outputs.
 - [OpenManus](https://github.com/mannaandpoem/OpenManus): is an open-source project aimed at replicating the capabilities of the Manus AI agent, a groundbreaking general-purpose AI developed by Monica. 
 - [ANUS](https://github.com/nikmcfly/ANUS): is a powerful, flexible, and accessible open-source AI agent framework designed to revolutionize task automation. Built with modern AI technologies and best practices, Anus represents the next generation of AI agent frameworks, offering unparalleled capabilities and ease of use.
 - [OWL](https://github.com/camel-ai/owl): OWL is a cutting-edge framework for multi-agent collaboration that pushes the boundaries of task automation, built on top of the CAMEL-AI Framework.
@@ -76,6 +78,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 
 ### Large (Language & Vision) Models
 #### Tools
+- [BAML (BoundaryML)](https://github.com/BoundaryML/baml): Domain-specific language and tooling for robust structured LLM output generation and prompt/version management.
 - [Quality Prompts](https://github.com/sarthakrastogi/quality-prompts): QualityPrompts implements 58 prompting techniques.
 - [InternLM](https://github.com/InternLM/InternLM): tops open LLM leaderboard for models under 12B.
 - [Awesome-LLM](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
@@ -84,6 +87,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Opik](https://github.com/comet-ml/opik): Open-source end-to-end LLM Development Platform.
   
 #### RAG (Retrieval-Augmented Generation)
+- [Haystack](https://github.com/deepset-ai/haystack): End-to-end framework for LLM pipelines, RAG, agents, and retrieval orchestration.
 - [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your RAG pipelines.
 - [RAGs](https://github.com/run-llama/rags): RAGs is a Streamlit app that lets you create a RAG pipeline from a data source using natural language.
 - [RAGFlow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG engine based on deep document understanding.
@@ -102,6 +106,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio): A curated list of awesome deep learning applications in the field of computational biology.
   
 #### Tools 
+- [MarkItDown](https://github.com/microsoft/markitdown): Converts diverse document formats (PDF, PPTX, DOCX, etc.) into clean Markdown for LLM and RAG pipelines.
 - [Medecine](https://github.com/primakov/precision-medicine-toolbox): precision-medicine-toolbox is an open-source python package for medical imaging data preparation for data science tasks. This package is aimed to provide a tool to curate the imaging data and to perform exploratory feature analysis.
 - [Dexter](https://github.com/virattt/dexter): Autonomous financial research agent with intelligent task planning, self-validation, and real-time market data access (income statements, balance sheets).
 - [LangExtract](https://github.com/google/langextract): Google's Python library for extracting structured info from unstructured text using LLMs. Features source grounding, interactive visualization, parallel processing.
@@ -132,6 +137,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 
 ## Dev
 ### Open Source Tools
+- [GitHub Agentic Workflows (gh-aw)](https://github.com/github/gh-aw): CLI toolkit for running agentic workflows integrated with GitHub development lifecycle.
+- [OpenAI Skills Catalog (Codex Skills)](https://github.com/openai/skills): Reusable skills catalog for coding agents, with practical patterns for tool-enabled coding workflows.
 - [Awesome Dev Tools](https://github.com/markodenic/web-development-resources): Awesome project about Web Development resources.
 - [OpenDevin](https://github.com/OpenDevin/OpenDevin):A platform for autonomous software engineers, powered by AI and LLMs. OpenDevin agents collaborate with human developers to write code, fix bugs, and ship features.
 - [Websim AI](https://websim.ai/): Create and discover worlds with WebSim, the browser for imagination.
@@ -152,6 +159,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 ## Security
 
 ### Open Source Tools
+- [GitHub Security Lab Taskflow Agent](https://github.com/github/taskflow-agent): Open-source AI framework for security research workflows from GitHub Security Lab.
 - [awesome-opensource-security](https://github.com/CaledoniaProject/awesome-opensource-security): A list of interesting open-source security tools, mostly reviewed and commented by me. The repo updates on a daily basis or whenever something interesting is out.
 - [Snyk Open Source](https://github.com/snyk/snyk): AI agent for detecting and remediating open source vulnerabilities in codebases.
 - [Shannon](https://github.com/KeygraphHQ/shannon): Fully autonomous AI pentester that finds actual exploits in web apps. Achieved 96.15% success rate on XBOW Benchmark. Tests for injection, XSS, SSRF, and broken authentication.
