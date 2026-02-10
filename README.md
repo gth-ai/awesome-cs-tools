@@ -46,6 +46,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [nanobot](https://github.com/HKUDS/nanobot): Ultra-lightweight personal AI assistant optimized for minimal resource usage while maintaining core assistant functionality. MIT licensed.
 - [VisionClaw](https://github.com/sseanliu/VisionClaw): Real-time AI assistant for Meta Ray-Ban smart glasses. See what you see, hear what you say, and take actions on your behalf -- all through voice. Built on Meta Wearables SDK + Gemini Live API + OpenClaw.
 - [Monty](https://github.com/pydantic/monty): Minimal, secure Python interpreter written in Rust for AI agents. Microsecond startup, strict sandboxing vs Docker's 195ms. Enables safe code execution without containers.
+- [AutoAgent](https://github.com/HKUDS/AutoAgent): Fully automated, zero-code LLM agent framework for building and orchestrating autonomous agent workflows.
+- [AgentOps](https://github.com/AgentOps-AI/agentops): Observability and monitoring SDK for AI agents with tracing, cost tracking, and performance analytics.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
@@ -93,6 +95,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [RAGFlow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG engine based on deep document understanding.
 - [GraphRAG](https://github.com/microsoft/graphrag): The GraphRAG project is a data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs.
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. 
+- [UltraRAG](https://github.com/OpenBMB/UltraRAG): Low-code framework for building advanced RAG pipelines and retrieval workflows.
 
 > This section was created as a tribute to my mentor, a RAG godfather.
 
@@ -118,6 +121,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist): The first comprehensive system for fully automatic scientific discovery, enabling Foundation Models such as Large Language Models (LLMs) to perform research independently.
 - [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit):PDF documents contain a wealth of knowledge, yet extracting high-quality content from PDFs is not an easy task.
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR): A 0.9B-parameter multimodal OCR model by Zhipu AI achieving state-of-the-art on OmniDocBench. Outputs semantic Markdown, JSON, LaTeX with 100+ language support.
+- [MinerU](https://github.com/opendatalab/MinerU): Document parsing and structured extraction toolkit that converts complex PDFs and documents into LLM-ready outputs.
 
 #### Database
 - [UC Irvine Machine Learning](https://archive.ics.uci.edu): Currently maintain 665 datasets as a service to the machine learning community.
@@ -152,6 +156,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [E2B](https://github.com/e2b-dev/e2b): Open-source platform for agent orchestration and local data sovereignty.
 - [claude-mem](https://github.com/thedotmack/claude-mem): A Claude Code plugin that automatically captures coding sessions, compresses them with AI, and injects relevant context into future sessions. Adds persistent memory to AI coding assistants.
 - [Superpowers](https://github.com/obra/superpowers): Agentic skills framework & software development methodology. Automatic planning, TDD, subagent workflows. Works with Claude Code, Codex, OpenCode.
+- [Sweep](https://github.com/sweepai/sweep): AI coding assistant for development workflows, including issue-driven implementation and automated code changes.
 
 ### API
 - [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
