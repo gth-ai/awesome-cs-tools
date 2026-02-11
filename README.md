@@ -48,6 +48,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Monty](https://github.com/pydantic/monty): Minimal, secure Python interpreter written in Rust for AI agents. Microsecond startup, strict sandboxing vs Docker's 195ms. Enables safe code execution without containers.
 - [AutoAgent](https://github.com/HKUDS/AutoAgent): Fully automated, zero-code LLM agent framework for building and orchestrating autonomous agent workflows.
 - [AgentOps](https://github.com/AgentOps-AI/agentops): Observability and monitoring SDK for AI agents with tracing, cost tracking, and performance analytics.
+- [Awesome Agents](https://github.com/kyrolabs/awesome-agents): Curated list of open-source AI agent frameworks, tools, and production-ready projects across coding, automation, and research workflows.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
