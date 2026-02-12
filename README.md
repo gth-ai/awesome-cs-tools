@@ -49,6 +49,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [AutoAgent](https://github.com/HKUDS/AutoAgent): Fully automated, zero-code LLM agent framework for building and orchestrating autonomous agent workflows.
 - [AgentOps](https://github.com/AgentOps-AI/agentops): Observability and monitoring SDK for AI agents with tracing, cost tracking, and performance analytics.
 - [Awesome Agents](https://github.com/kyrolabs/awesome-agents): Curated list of open-source AI agent frameworks, tools, and production-ready projects across coding, automation, and research workflows.
+- [CrewAI](https://github.com/crewAIInc/crewAI): Multi-agent orchestration framework for building autonomous workflows with role-based agents and tool use.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
@@ -82,6 +83,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 ### Large (Language & Vision) Models
 #### Tools
 - [BAML (BoundaryML)](https://github.com/BoundaryML/baml): Domain-specific language and tooling for robust structured LLM output generation and prompt/version management.
+- [LiteLLM](https://github.com/BerriAI/litellm): Unified LLM gateway/SDK to call 100+ model providers with OpenAI-compatible API, routing, and cost controls.
 - [Quality Prompts](https://github.com/sarthakrastogi/quality-prompts): QualityPrompts implements 58 prompting techniques.
 - [InternLM](https://github.com/InternLM/InternLM): tops open LLM leaderboard for models under 12B.
 - [Awesome-LLM](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. This repository features LLM apps that use models from OpenAI, Anthropic, Google, and even open-source models like LLaMA that you can run locally on your computer.
