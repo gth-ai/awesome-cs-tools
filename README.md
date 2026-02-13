@@ -50,6 +50,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [AgentOps](https://github.com/AgentOps-AI/agentops): Observability and monitoring SDK for AI agents with tracing, cost tracking, and performance analytics.
 - [Awesome Agents](https://github.com/kyrolabs/awesome-agents): Curated list of open-source AI agent frameworks, tools, and production-ready projects across coding, automation, and research workflows.
 - [CrewAI](https://github.com/crewAIInc/crewAI): Multi-agent orchestration framework for building autonomous workflows with role-based agents and tool use.
+- [VoltAgent](https://github.com/VoltAgent/voltagent): TypeScript AI agent engineering framework/platform with memory, RAG, guardrails, tools, MCP, and workflow support.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
@@ -160,6 +161,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [claude-mem](https://github.com/thedotmack/claude-mem): A Claude Code plugin that automatically captures coding sessions, compresses them with AI, and injects relevant context into future sessions. Adds persistent memory to AI coding assistants.
 - [Superpowers](https://github.com/obra/superpowers): Agentic skills framework & software development methodology. Automatic planning, TDD, subagent workflows. Works with Claude Code, Codex, OpenCode.
 - [Sweep](https://github.com/sweepai/sweep): AI coding assistant for development workflows, including issue-driven implementation and automated code changes.
+- [OpenLIT](https://github.com/openlit/openlit): OpenTelemetry-native observability platform for LLM/agent applications, including tracing, evaluations, guardrails, and prompt tooling.
 
 ### API
 - [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
