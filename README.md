@@ -33,6 +33,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [SMRY.ai](https://github.com/mrmps/SMRY): Revolutionizing article reading and paywall bypass with the power of AI. This tool generates summaries and gets past hard to avoid paywalls by using archive.org, googlebot, and (soon) archive.is, harnessing the advanced capabilities of OpenAI's ChatGPT API and the Vercel AI SDK.
 
 ### Open Source Agent Tools
+- [goose](https://github.com/block/goose): Open-source, extensible AI agent that can plan and execute development tasks (edit files, run commands, test) with multiple LLM backends.
 - [Mastra](https://github.com/mastra-ai/mastra): TypeScript framework to build production AI agents and workflows with memory, tools, and eval support.
 - [PydanticAI](https://github.com/pydantic/pydantic-ai): Python agent framework focused on type-safe LLM apps with Pydantic models, tools, and structured outputs.
 - [OpenManus](https://github.com/mannaandpoem/OpenManus): is an open-source project aimed at replicating the capabilities of the Manus AI agent, a groundbreaking general-purpose AI developed by Monica. 
@@ -95,6 +96,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Opik](https://github.com/comet-ml/opik): Open-source end-to-end LLM Development Platform.
   
 #### RAG (Retrieval-Augmented Generation)
+- [Pathway](https://github.com/pathwaycom/pathway): Python framework for real-time data pipelines supporting LLM apps, streaming retrieval, and production RAG workflows.
 - [Haystack](https://github.com/deepset-ai/haystack): End-to-end framework for LLM pipelines, RAG, agents, and retrieval orchestration.
 - [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your RAG pipelines.
 - [RAGs](https://github.com/run-llama/rags): RAGs is a Streamlit app that lets you create a RAG pipeline from a data source using natural language.
