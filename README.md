@@ -54,6 +54,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Awesome Agents](https://github.com/kyrolabs/awesome-agents): Curated list of open-source AI agent frameworks, tools, and production-ready projects across coding, automation, and research workflows.
 - [CrewAI](https://github.com/crewAIInc/crewAI): Multi-agent orchestration framework for building autonomous workflows with role-based agents and tool use.
 - [VoltAgent](https://github.com/VoltAgent/voltagent): TypeScript AI agent engineering framework/platform with memory, RAG, guardrails, tools, MCP, and workflow support.
+- [Goose](https://github.com/block/goose): Local, extensible open-source AI engineering agent that can execute code, edit files, run tools, and automate development workflows.
+- [Letta](https://github.com/letta-ai/letta): Stateful agent platform (formerly MemGPT) focused on long-term memory and self-improving agent behavior.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
