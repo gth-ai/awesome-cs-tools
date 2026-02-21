@@ -51,6 +51,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Monty](https://github.com/pydantic/monty): Minimal, secure Python interpreter written in Rust for AI agents. Microsecond startup, strict sandboxing vs Docker's 195ms. Enables safe code execution without containers.
 - [AutoAgent](https://github.com/HKUDS/AutoAgent): Fully automated, zero-code LLM agent framework for building and orchestrating autonomous agent workflows.
 - [AgentOps](https://github.com/AgentOps-AI/agentops): Observability and monitoring SDK for AI agents with tracing, cost tracking, and performance analytics.
+- [Agno](https://github.com/agno-agi/agno): Open-source framework for building and operating multi-agent systems with memory, tools, and workflow orchestration at scale.
 - [Awesome Agents](https://github.com/kyrolabs/awesome-agents): Curated list of open-source AI agent frameworks, tools, and production-ready projects across coding, automation, and research workflows.
 - [CrewAI](https://github.com/crewAIInc/crewAI): Multi-agent orchestration framework for building autonomous workflows with role-based agents and tool use.
 - [VoltAgent](https://github.com/VoltAgent/voltagent): TypeScript AI agent engineering framework/platform with memory, RAG, guardrails, tools, MCP, and workflow support.
@@ -168,6 +169,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Superpowers](https://github.com/obra/superpowers): Agentic skills framework & software development methodology. Automatic planning, TDD, subagent workflows. Works with Claude Code, Codex, OpenCode.
 - [Sweep](https://github.com/sweepai/sweep): AI coding assistant for development workflows, including issue-driven implementation and automated code changes.
 - [OpenLIT](https://github.com/openlit/openlit): OpenTelemetry-native observability platform for LLM/agent applications, including tracing, evaluations, guardrails, and prompt tooling.
+- [uv](https://github.com/astral-sh/uv): Extremely fast Python package and project manager written in Rust, suitable for reproducible dev environments and tooling workflows.
 
 ### API
 - [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
