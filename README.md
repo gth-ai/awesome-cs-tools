@@ -107,6 +107,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [GraphRAG](https://github.com/microsoft/graphrag): The GraphRAG project is a data pipeline and transformation suite that is designed to extract meaningful, structured data from unstructured text using the power of LLMs.
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. 
 - [UltraRAG](https://github.com/OpenBMB/UltraRAG): Low-code framework for building advanced RAG pipelines and retrieval workflows.
+- [RAG-Anything](https://github.com/HKUDS/RAG-Anything): All-in-one multimodal RAG framework for parsing and retrieving across complex document types.
 
 > This section was created as a tribute to my mentor, a RAG godfather.
 
