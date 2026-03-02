@@ -49,6 +49,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher): Autonomous deep-research agent that plans, searches, and generates source-backed reports across multiple LLM providers.
 - [VisionClaw](https://github.com/sseanliu/VisionClaw): Real-time AI assistant for Meta Ray-Ban smart glasses. See what you see, hear what you say, and take actions on your behalf -- all through voice. Built on Meta Wearables SDK + Gemini Live API + OpenClaw.
 - [Monty](https://github.com/pydantic/monty): Minimal, secure Python interpreter written in Rust for AI agents. Microsecond startup, strict sandboxing vs Docker's 195ms. Enables safe code execution without containers.
+- [ClawWork](https://github.com/HKUDS/ClawWork): OpenClaw as your AI coworker — autonomous work agent framework that earned $10K in 7 hours. Integrates with OpenClaw for productive task execution.
 - [AutoAgent](https://github.com/HKUDS/AutoAgent): Fully automated, zero-code LLM agent framework for building and orchestrating autonomous agent workflows.
 - [AgentOps](https://github.com/AgentOps-AI/agentops): Observability and monitoring SDK for AI agents with tracing, cost tracking, and performance analytics.
 - [Agno](https://github.com/agno-agi/agno): Open-source framework for building and operating multi-agent systems with memory, tools, and workflow orchestration at scale.
