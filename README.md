@@ -192,7 +192,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 #### America
 Coming Soon
 ### Free Certifications
-Coming Soon
+- [Anthropic Academy](https://www.anthropic.com/learn): Official learning hub by Anthropic — API development guides, enterprise deployment best practices, and resources for building with Claude (personal, work, and developer tracks).
 
 ## Contributing
 
