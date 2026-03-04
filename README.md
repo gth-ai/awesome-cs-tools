@@ -51,6 +51,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Monty](https://github.com/pydantic/monty): Minimal, secure Python interpreter written in Rust for AI agents. Microsecond startup, strict sandboxing vs Docker's 195ms. Enables safe code execution without containers.
 - [ClawWork](https://github.com/HKUDS/ClawWork): OpenClaw as your AI coworker — autonomous work agent framework that earned $10K in 7 hours. Integrates with OpenClaw for productive task execution.
 - [CoPaw](https://github.com/agentscope-ai/CoPaw): Personal AI assistant workstation by Alibaba with multi-channel support (DingTalk, Feishu, QQ, Discord, Telegram), memory, cron scheduling, and extensible skills.
+- [DeerFlow](https://github.com/bytedance/deer-flow): ByteDance's open-source SuperAgent harness for deep research and coding — orchestrates sub-agents, memory, sandboxes, tools, and skills to handle tasks from minutes to hours. Hit GitHub Trending #2.
 - [AutoAgent](https://github.com/HKUDS/AutoAgent): Fully automated, zero-code LLM agent framework for building and orchestrating autonomous agent workflows.
 - [AgentOps](https://github.com/AgentOps-AI/agentops): Observability and monitoring SDK for AI agents with tracing, cost tracking, and performance analytics.
 - [Agno](https://github.com/agno-agi/agno): Open-source framework for building and operating multi-agent systems with memory, tools, and workflow orchestration at scale.
