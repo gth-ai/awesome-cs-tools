@@ -175,6 +175,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Sweep](https://github.com/sweepai/sweep): AI coding assistant for development workflows, including issue-driven implementation and automated code changes.
 - [OpenLIT](https://github.com/openlit/openlit): OpenTelemetry-native observability platform for LLM/agent applications, including tracing, evaluations, guardrails, and prompt tooling.
 - [uv](https://github.com/astral-sh/uv): Extremely fast Python package and project manager written in Rust, suitable for reproducible dev environments and tooling workflows.
+- [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A curated list of free software network services and web applications you can host yourself — covering file sharing, communication, automation, media, and more. 2000+ tools indexed.
 
 ### API
 - [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
