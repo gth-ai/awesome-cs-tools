@@ -56,6 +56,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [AgentOps](https://github.com/AgentOps-AI/agentops): Observability and monitoring SDK for AI agents with tracing, cost tracking, and performance analytics.
 - [Agno](https://github.com/agno-agi/agno): Open-source framework for building and operating multi-agent systems with memory, tools, and workflow orchestration at scale.
 - [Awesome Agents](https://github.com/kyrolabs/awesome-agents): Curated list of open-source AI agent frameworks, tools, and production-ready projects across coding, automation, and research workflows.
+- [NullClaw](https://github.com/nullclaw/nullclaw): Ultra-lightweight AI assistant infrastructure written in Zig (678KB binary, 1MB RAM, 2ms boot). Supports 22+ AI providers, 13 channels, 18+ tools.
 - [CrewAI](https://github.com/crewAIInc/crewAI): Multi-agent orchestration framework for building autonomous workflows with role-based agents and tool use.
 - [VoltAgent](https://github.com/VoltAgent/voltagent): TypeScript AI agent engineering framework/platform with memory, RAG, guardrails, tools, MCP, and workflow support.
 - [Goose](https://github.com/block/goose): Local, extensible open-source AI engineering agent that can execute code, edit files, run tools, and automate development workflows.
