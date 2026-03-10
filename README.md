@@ -172,6 +172,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Windmill](https://github.com/windmill-labs/windmill): Open-source developer platform that converts scripts into UIs, APIs, and cron jobs.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands): Open-source software engineering agent for autonomous coding tasks on real repositories.
 - [LiteLLM](https://github.com/BerriAI/litellm): Unified gateway/SDK to route across many LLM providers with fallback, budgets, and observability.
+- [Aider](https://github.com/Aider-AI/aider): AI pair programming in your terminal. Edit code across entire repos with multi-model support, auto git commits, and works with dozens of languages.
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills): The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 - [E2B](https://github.com/e2b-dev/e2b): Open-source platform for agent orchestration and local data sovereignty.
 - [claude-mem](https://github.com/thedotmack/claude-mem): A Claude Code plugin that automatically captures coding sessions, compresses them with AI, and injects relevant context into future sessions. Adds persistent memory to AI coding assistants.
