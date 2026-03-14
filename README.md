@@ -47,6 +47,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [nanobot](https://github.com/HKUDS/nanobot): Ultra-lightweight personal AI assistant optimized for minimal resource usage while maintaining core assistant functionality. MIT licensed.
 - [PicoClaw](https://github.com/sipeed/picoclaw): Ultra-efficient AI assistant in Go designed for very low-resource hardware (<10MB RAM), with fast startup and cross-architecture portability.
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher): Autonomous deep-research agent that plans, searches, and generates source-backed reports across multiple LLM providers.
+- [Agency-Agents](https://github.com/msitarzewski/agency-agents): Library of production-ready AI expert persona configs for coding agents (Claude Code, Cursor, Copilot, Aider, Windsurf). 7K+ stars, MIT licensed.
 - [VisionClaw](https://github.com/sseanliu/VisionClaw): Real-time AI assistant for Meta Ray-Ban smart glasses. See what you see, hear what you say, and take actions on your behalf -- all through voice. Built on Meta Wearables SDK + Gemini Live API + OpenClaw.
 - [Monty](https://github.com/pydantic/monty): Minimal, secure Python interpreter written in Rust for AI agents. Microsecond startup, strict sandboxing vs Docker's 195ms. Enables safe code execution without containers.
 - [ClawWork](https://github.com/HKUDS/ClawWork): OpenClaw as your AI coworker — autonomous work agent framework that earned $10K in 7 hours. Integrates with OpenClaw for productive task execution.
