@@ -65,6 +65,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [VoltAgent](https://github.com/VoltAgent/voltagent): TypeScript AI agent engineering framework/platform with memory, RAG, guardrails, tools, MCP, and workflow support.
 - [Goose](https://github.com/block/goose): Local, extensible open-source AI engineering agent that can execute code, edit files, run tools, and automate development workflows.
 - [Letta](https://github.com/letta-ai/letta): Stateful agent platform (formerly MemGPT) focused on long-term memory and self-improving agent behavior.
+- [autoresearch](https://github.com/karpathy/autoresearch): Autonomous AI research agent by Karpathy that runs ML experiments overnight, modifies training code, evaluates results, and iterates — all without human intervention.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
