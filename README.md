@@ -66,6 +66,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Goose](https://github.com/block/goose): Local, extensible open-source AI engineering agent that can execute code, edit files, run tools, and automate development workflows.
 - [Letta](https://github.com/letta-ai/letta): Stateful agent platform (formerly MemGPT) focused on long-term memory and self-improving agent behavior.
 - [autoresearch](https://github.com/karpathy/autoresearch): Autonomous AI research agent by Karpathy that runs ML experiments overnight, modifies training code, evaluates results, and iterates — all without human intervention.
+- [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw): Fully autonomous 23-stage research pipeline that turns a single research idea into a conference-ready paper. Chat an idea, get a paper. Integrates with OpenClaw.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
