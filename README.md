@@ -92,6 +92,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses): A collection of Machine Learning courses available on YouTube.
 - [Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide): Prompt Engineering Guide. Prompt engineering is a relatively new discipline for developing and optimizing prompts to efficiently use language models (LMs) for a wide variety of applications and research topics.
 - [deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks): Companion Jupyter notebooks for the book "Deep Learning with Python". This repository contains Jupyter notebooks implementing the code samples found in the book Deep Learning with Python, 2nd Edition (Manning Publications).
+- [learn-claude-code](https://github.com/shareAI-lab/learn-claude-code): Educational repo that rebuilds Claude Code from scratch in Bash/TypeScript, teaching the core principles behind AI coding agents step by step.
 
 #### For French 🇫🇷 Speakers 
 - [Fondamental Deep Learning Courses](https://www.youtube.com/playlist?list=PLO_fdPEVlfKoanjvTJbIbd9V5d9Pzp8Rw): A serie of Fondamental Deep Learning courses on YouTube by Machine Learnia.
