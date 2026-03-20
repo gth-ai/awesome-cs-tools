@@ -69,6 +69,10 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw): Fully autonomous 23-stage research pipeline that turns a single research idea into a conference-ready paper. Chat an idea, get a paper. Integrates with OpenClaw.
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything): Bridges the gap between AI agents and the world's software by making any CLI tool agent-native via auto-generated adapters.
 - [Hermes-Agent](https://github.com/NousResearch/hermes-agent): Self-improving AI agent by Nous Research with a built-in learning loop: creates skills from experience, searches past conversations, and builds a persistent user model across sessions.
+- [MiroFish](https://github.com/666ghj/MiroFish): Swarm intelligence engine that predicts anything. Simple, universal, open source.
+- [OpenViking](https://github.com/volcengine/OpenViking): Open-source context database for AI agents. Unifies memory, resources, and skills in a single layer.
+- [page-agent](https://github.com/alibaba/page-agent): JavaScript in-page GUI agent by Alibaba. Control any web interface with plain language.
+- [DeepAgents](https://github.com/langchain-ai/deepagents): Agent harness with planning tool, filesystem backend, and ability to spawn subagents. By LangChain.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
@@ -167,6 +171,9 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 
 ## Dev
 ### Open Source Tools
+- [lightpanda-browser](https://github.com/lightpanda-io/browser): Headless browser designed for AI and automation. No Chrome. No bloat. Written in Zig.
+- [impeccable](https://github.com/pbakaus/impeccable): The design language that makes your AI harness better at design. Makes vibe-coded UI look intentional.
+- [BitNet](https://github.com/microsoft/BitNet): Microsoft's official inference framework for 1-bit LLMs. Full performance, almost zero compute.
 - [AionUi](https://github.com/iOfficeAI/AionUi): Free, open-source multi-AI agent desktop app — cross-platform cowork environment for Gemini CLI, Claude Code, Codex, Goose, and more with built-in file management and preview panels.
 - [GitHub Agentic Workflows (gh-aw)](https://github.com/github/gh-aw): CLI toolkit for running agentic workflows integrated with GitHub development lifecycle.
 - [OpenAI Skills Catalog (Codex Skills)](https://github.com/openai/skills): Reusable skills catalog for coding agents, with practical patterns for tool-enabled coding workflows.
