@@ -68,6 +68,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [autoresearch](https://github.com/karpathy/autoresearch): Autonomous AI research agent by Karpathy that runs ML experiments overnight, modifies training code, evaluates results, and iterates — all without human intervention.
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw): Fully autonomous 23-stage research pipeline that turns a single research idea into a conference-ready paper. Chat an idea, get a paper. Integrates with OpenClaw.
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything): Bridges the gap between AI agents and the world's software by making any CLI tool agent-native via auto-generated adapters.
+- [Hermes-Agent](https://github.com/NousResearch/hermes-agent): Self-improving AI agent by Nous Research with a built-in learning loop: creates skills from experience, searches past conversations, and builds a persistent user model across sessions.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
@@ -143,6 +144,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Marker](https://github.com/VikParuchuri/marker): Converts PDF to markdown quickly and accurately.
 - [Nexus](https://libstc.cc/#/):Help you to found any recent paper.
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist): The first comprehensive system for fully automatic scientific discovery, enabling Foundation Models such as Large Language Models (LLMs) to perform research independently.
+- [notebooklm-py](https://github.com/teng-lin/notebooklm-py): Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access via Python, CLI, and AI agents (Claude Code, Codex, OpenClaw).
 - [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit):PDF documents contain a wealth of knowledge, yet extracting high-quality content from PDFs is not an easy task.
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR): A 0.9B-parameter multimodal OCR model by Zhipu AI achieving state-of-the-art on OmniDocBench. Outputs semantic Markdown, JSON, LaTeX with 100+ language support.
 - [MinerU](https://github.com/opendatalab/MinerU): Document parsing and structured extraction toolkit that converts complex PDFs and documents into LLM-ready outputs.
