@@ -70,6 +70,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw): Fully autonomous 23-stage research pipeline that turns a single research idea into a conference-ready paper. Chat an idea, get a paper. Integrates with OpenClaw.
 - [CLI-Anything](https://github.com/HKUDS/CLI-Anything): Bridges the gap between AI agents and the world's software by making any CLI tool agent-native via auto-generated adapters.
 - [Hermes-Agent](https://github.com/NousResearch/hermes-agent): Self-improving AI agent by Nous Research with a built-in learning loop: creates skills from experience, searches past conversations, and builds a persistent user model across sessions.
+- [OpenViking](https://github.com/volcengine/OpenViking): Open-source context database for AI agents. Unifies memory, resources, and skills in a single layer.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
