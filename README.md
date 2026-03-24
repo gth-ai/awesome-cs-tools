@@ -62,6 +62,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [NullClaw](https://github.com/nullclaw/nullclaw): Ultra-lightweight AI assistant infrastructure written in Zig (678KB binary, 1MB RAM, 2ms boot). Supports 22+ AI providers, 13 channels, 18+ tools.
 - [Composio](https://github.com/ComposioHQ/composio): Tool integration platform for AI agents with 1000+ toolkits, managed authentication, context management, and sandboxed workbench. Python & TypeScript SDKs.
 - [Context Hub](https://github.com/andrewyng/context-hub): CLI by Andrew Ng that gives coding agents curated, versioned API docs with annotations and community feedback. Agents search, fetch, and learn from docs across sessions.
+- [DeepAgents](https://github.com/langchain-ai/deepagents): Agent harness with planning tool, filesystem backend, and ability to spawn subagents. By LangChain.
 - [CrewAI](https://github.com/crewAIInc/crewAI): Multi-agent orchestration framework for building autonomous workflows with role-based agents and tool use.
 - [VoltAgent](https://github.com/VoltAgent/voltagent): TypeScript AI agent engineering framework/platform with memory, RAG, guardrails, tools, MCP, and workflow support.
 - [Goose](https://github.com/block/goose): Local, extensible open-source AI engineering agent that can execute code, edit files, run tools, and automate development workflows.
