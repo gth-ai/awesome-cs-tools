@@ -125,6 +125,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps): A curated collection of awesome LLM apps built with RAG and AI agents. 
 - [UltraRAG](https://github.com/OpenBMB/UltraRAG): Low-code framework for building advanced RAG pipelines and retrieval workflows.
 - [RAG-Anything](https://github.com/HKUDS/RAG-Anything): All-in-one multimodal RAG framework for parsing and retrieving across complex document types.
+- [GitNexus](https://github.com/abhigyanpatwari/GitNexus): Zero-server browser-based tool that transforms GitHub repos or ZIP files into interactive knowledge graphs with a built-in Graph RAG agent for code exploration.
 
 > This section was created as a tribute to my mentor, a RAG godfather.
 
@@ -196,6 +197,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [uv](https://github.com/astral-sh/uv): Extremely fast Python package and project manager written in Rust, suitable for reproducible dev environments and tooling workflows.
 - [Awesome Self-Hosted](https://github.com/awesome-selfhosted/awesome-selfhosted): A curated list of free software network services and web applications you can host yourself — covering file sharing, communication, automation, media, and more. 2000+ tools indexed.
 - [Firecrawl](https://github.com/mendableai/firecrawl): Turns any website into clean, LLM-ready structured data via crawling, scraping, and extraction — no config needed.
+- [SkyPilot](https://github.com/skypilot-org/skypilot): Run, manage, and scale AI workloads on any infrastructure — Kubernetes, Slurm, 20+ clouds, or on-prem — via a single unified control plane.
 
 ### API
 - [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
