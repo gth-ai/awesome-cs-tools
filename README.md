@@ -73,6 +73,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Hermes-Agent](https://github.com/NousResearch/hermes-agent): Self-improving AI agent by Nous Research with a built-in learning loop: creates skills from experience, searches past conversations, and builds a persistent user model across sessions.
 - [OpenViking](https://github.com/volcengine/OpenViking): Open-source context database for AI agents. Unifies memory, resources, and skills in a single layer.
 - [page-agent](https://github.com/alibaba/page-agent): JavaScript in-page GUI agent by Alibaba. Control any web interface with plain language.
+- [ClawTeam](https://github.com/HKUDS/ClawTeam): Agent swarm intelligence: one command triggers a full team of AI agents that delegate tasks, think together, and ship results. CLI-native, MIT licensed.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
