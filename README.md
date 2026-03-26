@@ -199,6 +199,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Firecrawl](https://github.com/mendableai/firecrawl): Turns any website into clean, LLM-ready structured data via crawling, scraping, and extraction — no config needed.
 - [SkyPilot](https://github.com/skypilot-org/skypilot): Run, manage, and scale AI workloads on any infrastructure — Kubernetes, Slurm, 20+ clouds, or on-prem — via a single unified control plane.
 - [lightpanda-browser](https://github.com/lightpanda-io/browser): Headless browser designed for AI and automation. No Chrome. No bloat. Written in Zig.
+- [impeccable](https://github.com/pbakaus/impeccable): The design language that makes your AI harness better at design. Makes vibe-coded UI look intentional.
 
 ### API
 - [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
