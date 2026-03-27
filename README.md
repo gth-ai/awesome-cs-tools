@@ -107,6 +107,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 
 ### Large (Language & Vision) Models
 #### Tools
+- [Promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts, agents, and RAGs. Red teaming, vulnerability scanning, and multi-model evaluation (GPT, Claude, Gemini, Llama). CLI + CI/CD integration. Used by OpenAI and Anthropic.
 - [BAML (BoundaryML)](https://github.com/BoundaryML/baml): Domain-specific language and tooling for robust structured LLM output generation and prompt/version management.
 - [LiteLLM](https://github.com/BerriAI/litellm): Unified LLM gateway/SDK to call 100+ model providers with OpenAI-compatible API, routing, and cost controls.
 - [Quality Prompts](https://github.com/sarthakrastogi/quality-prompts): QualityPrompts implements 58 prompting techniques.
@@ -155,6 +156,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit):PDF documents contain a wealth of knowledge, yet extracting high-quality content from PDFs is not an easy task.
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR): A 0.9B-parameter multimodal OCR model by Zhipu AI achieving state-of-the-art on OmniDocBench. Outputs semantic Markdown, JSON, LaTeX with 100+ language support.
 - [MinerU](https://github.com/opendatalab/MinerU): Document parsing and structured extraction toolkit that converts complex PDFs and documents into LLM-ready outputs.
+- [pgvectorscale](https://github.com/timescale/pgvectorscale): Postgres extension (Rust) by Timescale for high-throughput vector search using DiskANN indexing. Complements pgvector for production-scale RAG workloads. OSS licensed.
 
 #### Database
 - [UC Irvine Machine Learning](https://archive.ics.uci.edu): Currently maintain 665 datasets as a service to the machine learning community.
