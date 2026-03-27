@@ -115,6 +115,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024).
 - [Prompt engineering interactive tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial): This course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude.
 - [Opik](https://github.com/comet-ml/opik): Open-source end-to-end LLM Development Platform.
+- [BitNet](https://github.com/microsoft/BitNet): Microsoft's official inference framework for 1-bit LLMs. Full performance, almost zero compute.
   
 #### RAG (Retrieval-Augmented Generation)
 - [Pathway](https://github.com/pathwaycom/pathway): Python framework for real-time data pipelines supporting LLM apps, streaming retrieval, and production RAG workflows.
