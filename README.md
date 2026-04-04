@@ -124,6 +124,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [BitNet](https://github.com/microsoft/BitNet): Microsoft's official inference framework for 1-bit LLMs. Full performance, almost zero compute.
   
 #### RAG (Retrieval-Augmented Generation)
+- [Danswer](https://github.com/danswer-ai/danswer): Open-source enterprise AI assistant with connectors, access control, and production-ready RAG over internal knowledge bases.
 - [Pathway](https://github.com/pathwaycom/pathway): Python framework for real-time data pipelines supporting LLM apps, streaming retrieval, and production RAG workflows.
 - [Haystack](https://github.com/deepset-ai/haystack): End-to-end framework for LLM pipelines, RAG, agents, and retrieval orchestration.
 - [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your RAG pipelines.
