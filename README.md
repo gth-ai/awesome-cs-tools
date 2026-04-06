@@ -164,6 +164,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR): A 0.9B-parameter multimodal OCR model by Zhipu AI achieving state-of-the-art on OmniDocBench. Outputs semantic Markdown, JSON, LaTeX with 100+ language support.
 - [MinerU](https://github.com/opendatalab/MinerU): Document parsing and structured extraction toolkit that converts complex PDFs and documents into LLM-ready outputs.
 - [pgvectorscale](https://github.com/timescale/pgvectorscale): Postgres extension (Rust) by Timescale for high-throughput vector search using DiskANN indexing. Complements pgvector for production-scale RAG workloads. OSS licensed.
+- [STORM](https://github.com/stanford-oval/storm): LLM-powered research assistant that plans, retrieves sources, and drafts grounded long-form reports.
 
 #### Database
 - [UC Irvine Machine Learning](https://archive.ics.uci.edu): Currently maintain 665 datasets as a service to the machine learning community.
