@@ -124,6 +124,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Prompt engineering interactive tutorial](https://github.com/anthropics/courses/tree/master/prompt_engineering_interactive_tutorial): This course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude.
 - [Opik](https://github.com/comet-ml/opik): Open-source end-to-end LLM Development Platform.
 - [BitNet](https://github.com/microsoft/BitNet): Microsoft's official inference framework for 1-bit LLMs. Full performance, almost zero compute.
+- [DSPy](https://github.com/stanfordnlp/dspy): LLM programming framework from Stanford for declarative prompting, optimization, and reliable pipelines.
   
 #### RAG (Retrieval-Augmented Generation)
 - [Danswer](https://github.com/danswer-ai/danswer): Open-source enterprise AI assistant with connectors, access control, and production-ready RAG over internal knowledge bases.
