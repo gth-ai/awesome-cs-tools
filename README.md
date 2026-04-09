@@ -81,6 +81,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [ClawTeam](https://github.com/HKUDS/ClawTeam): Agent swarm intelligence: one command triggers a full team of AI agents that delegate tasks, think together, and ship results. CLI-native, MIT licensed.
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent): Alibaba's open-source agent framework built on Qwen LLMs, featuring tool use, planning, memory, and RAG — supports building autonomous multi-step agents.
 - [Khoj](https://github.com/khoj-ai/khoj): Self-hostable AI second brain: answers from your docs or the web, custom agents, scheduled automations, and deep research with any local or cloud LLM.
+- [open-swe](https://github.com/Upsonic/open-swe): Open-source autonomous coding agent that solves GitHub issues end-to-end — no cloud dependency.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
