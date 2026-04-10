@@ -83,6 +83,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent): Alibaba's open-source agent framework built on Qwen LLMs, featuring tool use, planning, memory, and RAG — supports building autonomous multi-step agents.
 - [Khoj](https://github.com/khoj-ai/khoj): Self-hostable AI second brain: answers from your docs or the web, custom agents, scheduled automations, and deep research with any local or cloud LLM.
 - [open-swe](https://github.com/Upsonic/open-swe): Open-source autonomous coding agent that solves GitHub issues end-to-end — no cloud dependency.
+- [ICM](https://github.com/rtk-ai/icm): MCP-native persistent memory engine for AI agents, delivered as a single binary with zero dependencies.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
