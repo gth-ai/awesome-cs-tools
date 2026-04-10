@@ -32,6 +32,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) : An AI-powered file management tool that ensures privacy by organizing local texts, images, and PDFs.
 - [AutoDAN-Turbo](https://github.com/SaFoLab-WISC/AutoDAN-Turbo): AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs.
 - [SMRY.ai](https://github.com/mrmps/SMRY): Revolutionizing article reading and paywall bypass with the power of AI. This tool generates summaries and gets past hard to avoid paywalls by using archive.org, googlebot, and (soon) archive.is, harnessing the advanced capabilities of OpenAI's ChatGPT API and the Vercel AI SDK.
+- [VibeVoice](https://github.com/microsoft/VibeVoice): Open-source frontier voice AI by Microsoft — clone voices and transcribe 60-minute audio in a single pass.
 
 ### Open Source Agent Tools
 - [goose](https://github.com/block/goose): Open-source, extensible AI agent that can plan and execute development tasks (edit files, run commands, test) with multiple LLM backends.
