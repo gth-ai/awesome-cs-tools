@@ -209,6 +209,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills): The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 - [E2B](https://github.com/e2b-dev/e2b): Open-source platform for agent orchestration and local data sovereignty.
 - [claude-mem](https://github.com/thedotmack/claude-mem): A Claude Code plugin that automatically captures coding sessions, compresses them with AI, and injects relevant context into future sessions. Adds persistent memory to AI coding assistants.
+- [Toprank](https://github.com/nowork-studio/toprank): Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills. Connects Google Search Console, PageSpeed Insights, and the Google Ads API to ship fixes such as meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes.
 - [Superpowers](https://github.com/obra/superpowers): Agentic skills framework & software development methodology. Automatic planning, TDD, subagent workflows. Works with Claude Code, Codex, OpenCode.
 - [Sweep](https://github.com/sweepai/sweep): AI coding assistant for development workflows, including issue-driven implementation and automated code changes.
 - [OpenLIT](https://github.com/openlit/openlit): OpenTelemetry-native observability platform for LLM/agent applications, including tracing, evaluations, guardrails, and prompt tooling.
