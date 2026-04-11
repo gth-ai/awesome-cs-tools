@@ -49,6 +49,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [nanobot](https://github.com/HKUDS/nanobot): Ultra-lightweight personal AI assistant optimized for minimal resource usage while maintaining core assistant functionality. MIT licensed.
 - [PicoClaw](https://github.com/sipeed/picoclaw): Ultra-efficient AI assistant in Go designed for very low-resource hardware (<10MB RAM), with fast startup and cross-architecture portability.
 - [GPT Researcher](https://github.com/assafelovic/gpt-researcher): Autonomous deep-research agent that plans, searches, and generates source-backed reports across multiple LLM providers.
+- [MolmoWeb](https://github.com/allenai/molmoweb): Open visual web agent by Allen AI for automating browser tasks with vision-based navigation.
 - [Agency-Agents](https://github.com/msitarzewski/agency-agents): Complete AI agency framework where each agent has a personality, defined processes, and deliverables — from frontend wizards to reality checkers. #1 GitHub Trending two weeks running. 53K+ stars, MIT licensed.
 - [MiroFish](https://github.com/666ghj/MiroFish): Swarm intelligence engine that predicts anything. Simple, universal, open source.
 - [Paperclip](https://github.com/paperclipai/paperclip): Open-source orchestration platform for building fully autonomous AI-agent companies. Node.js + React UI with org charts, budgets, governance, and agent coordination. "If OpenClaw is an employee, Paperclip is the company."
