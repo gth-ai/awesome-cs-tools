@@ -42,6 +42,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [ANUS](https://github.com/nikmcfly/ANUS): is a powerful, flexible, and accessible open-source AI agent framework designed to revolutionize task automation. Built with modern AI technologies and best practices, Anus represents the next generation of AI agent frameworks, offering unparalleled capabilities and ease of use.
 - [OWL](https://github.com/camel-ai/owl): OWL is a cutting-edge framework for multi-agent collaboration that pushes the boundaries of task automation, built on top of the CAMEL-AI Framework.
 - [OpenClaw](https://github.com/openclaw/openclaw): Your own personal AI assistant. Any OS. Any Platform. The lobster way.
+- [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code): Curated list of skills, hooks, slash-commands, agent orchestrators, and plugins for Claude Code by Anthropic — 37K+ stars.
 - [SmolAgents](https://github.com/huggingface/smolagents): Lightweight agent SDK by Hugging Face for building AI agents and workflows.
 - [LangGraph](https://github.com/langchain-ai/langgraph): Framework for building stateful, multi-actor applications with LLMs, integrates MCP for tool plug-and-play.
 - [Atomic Agents](https://github.com/BerriAI/atomicagents): Open-source library designed to simplify the creation of multi-agent systems.
