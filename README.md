@@ -161,6 +161,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Dexter](https://github.com/virattt/dexter): Autonomous financial research agent with intelligent task planning, self-validation, and real-time market data access (income statements, balance sheets).
 - [LangExtract](https://github.com/google/langextract): Google's Python library for extracting structured info from unstructured text using LLMs. Features source grounding, interactive visualization, parallel processing.
 - [LanguageTool](https://github.com/languagetool-org/languagetool): An Open Source proofreading software for English, Spanish, French, German, Portuguese, Polish, Dutch, and more than 20 other languages. It finds many errors that a simple spell checker cannot detect.
+- [timesfm](https://github.com/google-research/timesfm): Google's time-series foundation model — zero-shot forecasting without task-specific training.
 - [Online LaTeX diff tool](https://3142.nl/latex-diff/): An online free tool is a wrapper script for latexdiff, which is the LaTeX alternative to Track Changes in Microsoft Word. By using this tool you avoid the command line and having to install Perl. We do not keep copies of your documents.
 - [doi2bib](https://www.doi2bib.org/):Give us a DOI
 - [Marker](https://github.com/VikParuchuri/marker): Converts PDF to markdown quickly and accurately.
