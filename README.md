@@ -120,6 +120,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 
 ### Large (Language & Vision) Models
 #### Tools
+- [Arcee Trinity](https://github.com/arcee-ai/Trinity-Large-Thinking): Apache 2.0 open reasoning model designed for long-horizon agents and tool use. Built for complex, multi-step autonomous workflows.
 - [Promptfoo](https://github.com/promptfoo/promptfoo): Test your prompts, agents, and RAGs. Red teaming, vulnerability scanning, and multi-model evaluation (GPT, Claude, Gemini, Llama). CLI + CI/CD integration. Used by OpenAI and Anthropic.
 - [BAML (BoundaryML)](https://github.com/BoundaryML/baml): Domain-specific language and tooling for robust structured LLM output generation and prompt/version management.
 - [LiteLLM](https://github.com/BerriAI/litellm): Unified LLM gateway/SDK to call 100+ model providers with OpenAI-compatible API, routing, and cost controls.
