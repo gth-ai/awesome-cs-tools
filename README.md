@@ -146,6 +146,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [UltraRAG](https://github.com/OpenBMB/UltraRAG): Low-code framework for building advanced RAG pipelines and retrieval workflows.
 - [RAG-Anything](https://github.com/HKUDS/RAG-Anything): All-in-one multimodal RAG framework for parsing and retrieving across complex document types.
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus): Zero-server browser-based tool that transforms GitHub repos or ZIP files into interactive knowledge graphs with a built-in Graph RAG agent for code exploration.
+- [GibRAM](https://github.com/gibram-io/gibram): In-memory knowledge graph server designed for RAG / GraphRAG workflows. Written in Go.
 
 > This section was created as a tribute to my mentor, a RAG godfather.
 
