@@ -170,6 +170,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [doi2bib](https://www.doi2bib.org/):Give us a DOI
 - [Marker](https://github.com/VikParuchuri/marker): Converts PDF to markdown quickly and accurately.
 - [Nexus](https://libstc.cc/#/):Help you to found any recent paper.
+- [deep-researcher](https://github.com/jackswl/deep-researcher): Deep research agent built on Claude Code's agentic framework. Plans, searches, and generates citation-backed reports autonomously.
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist): The first comprehensive system for fully automatic scientific discovery, enabling Foundation Models such as Large Language Models (LLMs) to perform research independently.
 - [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2): Automated scientific discovery via agentic tree search — generates hypotheses, runs experiments, and writes papers autonomously.
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py): Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access via Python, CLI, and AI agents (Claude Code, Codex, OpenClaw).
@@ -213,6 +214,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Aider](https://github.com/Aider-AI/aider): AI pair programming in your terminal. Edit code across entire repos with multi-model support, auto git commits, and works with dozens of languages.
 - [Crush](https://github.com/charmbracelet/crush): Glamorous terminal-based AI coding agent by Charmbracelet. Multi-model, LSP-enhanced, session-based, MCP-extensible. Built on the Charm ecosystem (successor to OpenCode).
 - [Plandex](https://github.com/plandex-ai/plandex): AI coding engine in your terminal for complex, multi-file tasks. Manages large changes in parallel with a review system before applying.
+- [Kontext CLI](https://github.com/kontext-security/kontext-cli): Open-source CLI that gives AI coding agents scoped, short-lived credentials via OIDC and token exchange — no more hardcoded API keys in .env files.
 - [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills): The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 - [E2B](https://github.com/e2b-dev/e2b): Open-source platform for agent orchestration and local data sovereignty.
 - [claude-mem](https://github.com/thedotmack/claude-mem): A Claude Code plugin that automatically captures coding sessions, compresses them with AI, and injects relevant context into future sessions. Adds persistent memory to AI coding assistants.
