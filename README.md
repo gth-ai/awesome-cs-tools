@@ -171,6 +171,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Marker](https://github.com/VikParuchuri/marker): Converts PDF to markdown quickly and accurately.
 - [Nexus](https://libstc.cc/#/):Help you to found any recent paper.
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist): The first comprehensive system for fully automatic scientific discovery, enabling Foundation Models such as Large Language Models (LLMs) to perform research independently.
+- [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2): Automated scientific discovery via agentic tree search — generates hypotheses, runs experiments, and writes papers autonomously.
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py): Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access via Python, CLI, and AI agents (Claude Code, Codex, OpenClaw).
 - [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit):PDF documents contain a wealth of knowledge, yet extracting high-quality content from PDFs is not an easy task.
 - [GLM-OCR](https://github.com/zai-org/GLM-OCR): A 0.9B-parameter multimodal OCR model by Zhipu AI achieving state-of-the-art on OmniDocBench. Outputs semantic Markdown, JSON, LaTeX with 100+ language support.
