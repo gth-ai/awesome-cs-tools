@@ -88,6 +88,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Khoj](https://github.com/khoj-ai/khoj): Self-hostable AI second brain: answers from your docs or the web, custom agents, scheduled automations, and deep research with any local or cloud LLM.
 - [open-swe](https://github.com/Upsonic/open-swe): Open-source autonomous coding agent that solves GitHub issues end-to-end — no cloud dependency.
 - [ICM](https://github.com/rtk-ai/icm): MCP-native persistent memory engine for AI agents, delivered as a single binary with zero dependencies.
+- [OpenBotX](https://github.com/openbotx/openbotx): Open-source platform for orchestrating AI agents from a web control panel. Multi-agent, real-time task board, skills marketplace, browser automation, scheduler — one command to start, no coding required.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
@@ -146,6 +147,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [UltraRAG](https://github.com/OpenBMB/UltraRAG): Low-code framework for building advanced RAG pipelines and retrieval workflows.
 - [RAG-Anything](https://github.com/HKUDS/RAG-Anything): All-in-one multimodal RAG framework for parsing and retrieving across complex document types.
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus): Zero-server browser-based tool that transforms GitHub repos or ZIP files into interactive knowledge graphs with a built-in Graph RAG agent for code exploration.
+- [RAG-Lighter](https://github.com/stargazerwh/RAG-Lighter): Lightweight RAG framework with optimized retrieval and generation pipeline.
 - [GibRAM](https://github.com/gibram-io/gibram): In-memory knowledge graph server designed for RAG / GraphRAG workflows. Written in Go.
 
 > This section was created as a tribute to my mentor, a RAG godfather.
