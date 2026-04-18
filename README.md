@@ -28,6 +28,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Gradio](https://www.gradio.app/): Gradio is the fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere!
 - [Dough](https://github.com/banodoco/Dough): Dough is a tool for crafting videos with AI. The goal is to give you enough control over video generations that you can make beautiful creations of anything you imagine that feel uniquely your own.
 - [Mem0](https://github.com/mem0ai/mem0) : Mem0 provides a smart, self-improving memory layer for Large Language Models, enabling personalized AI experiences across applications.
+- [RAG2F](https://github.com/rag2f/rag2f): Lightweight, plugin-first RAG framework. Swappable backends, isolated deps, composable pipelines.
 - [FastHtml](https://www.fastht.ml/) : Built on solid web foundations, not the latest fads - with FastHTML you can get started on anything from simple dashboards to scalable web applications in minutes.
 - [Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) : An AI-powered file management tool that ensures privacy by organizing local texts, images, and PDFs.
 - [AutoDAN-Turbo](https://github.com/SaFoLab-WISC/AutoDAN-Turbo): AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs.
