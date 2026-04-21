@@ -231,6 +231,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [lightpanda-browser](https://github.com/lightpanda-io/browser): Headless browser designed for AI and automation. No Chrome. No bloat. Written in Zig.
 - [impeccable](https://github.com/pbakaus/impeccable): The design language that makes your AI harness better at design. Makes vibe-coded UI look intentional.
 - [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2): Automate making money online — AI-powered content and revenue generation pipeline.
+- [MMORE](https://github.com/swiss-ai/mmore): Massive Multimodal Open RAG & Extraction. Scalable pipeline for processing, indexing, and querying multimodal documents (PDFs, videos, spreadsheets).
 
 ### API
 - [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
