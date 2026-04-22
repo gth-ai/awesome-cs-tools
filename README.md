@@ -154,6 +154,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 > This section was created as a tribute to my mentor, a RAG godfather.
 
 ### Research and Papers
+- [PaperQA2](https://github.com/Future-House/paper-qa): Open-source scientific literature assistant for querying papers with grounded answers and citations.
 - [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week): A weekly list of top ML papers in your inbox.
 - [Awesome Generative AI](https://github.com/aishwaryanr/awesome-generative-ai-guide): Generative AI is experiencing rapid growth, and this repository serves as a comprehensive hub for updates on generative AI research, interview materials, notebooks, and more!
 - [SyntheX](https://github.com/arcadelab/SyntheX): This repository contains the training and testing scripts on the three SyntheX applications, namely hip imaging, surgical tool detection and covid. The associated data is provided in a separate folder. Detailed running instructions can be found in each sub folder.
