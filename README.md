@@ -163,7 +163,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [deeplearning-biology](https://github.com/hussius/deeplearning-biology): This is a list of implementations of deep learning methods to biology, originally published on Follow the Data. There is a slant towards genomics because that's the subfield that I follow most closely.
 - [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio): A curated list of awesome deep learning applications in the field of computational biology.
   
-#### Tools 
+#### Tools
+- [ResearchHarness](https://github.com/black-yt/ResearchHarness): Trusted-local harness for research agents with real tool use, end-to-end evaluation, and training-data collection.
 - [MarkItDown](https://github.com/microsoft/markitdown): Converts diverse document formats (PDF, PPTX, DOCX, etc.) into clean Markdown for LLM and RAG pipelines.
 - [Medecine](https://github.com/primakov/precision-medicine-toolbox): precision-medicine-toolbox is an open-source python package for medical imaging data preparation for data science tasks. This package is aimed to provide a tool to curate the imaging data and to perform exploratory feature analysis.
 - [Dexter](https://github.com/virattt/dexter): Autonomous financial research agent with intelligent task planning, self-validation, and real-time market data access (income statements, balance sheets).
