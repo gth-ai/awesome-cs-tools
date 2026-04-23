@@ -184,6 +184,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [MinerU](https://github.com/opendatalab/MinerU): Document parsing and structured extraction toolkit that converts complex PDFs and documents into LLM-ready outputs.
 - [pgvectorscale](https://github.com/timescale/pgvectorscale): Postgres extension (Rust) by Timescale for high-throughput vector search using DiskANN indexing. Complements pgvector for production-scale RAG workloads. OSS licensed.
 - [STORM](https://github.com/stanford-oval/storm): LLM-powered research assistant that plans, retrieves sources, and drafts grounded long-form reports.
+- [DeepXiv SDK](https://github.com/DeepXiv/deepxiv_sdk): Research-agent SDK for paper discovery, progressive reading flows, and citation-aware synthesis over academic literature.
 
 #### Database
 - [UC Irvine Machine Learning](https://archive.ics.uci.edu): Currently maintain 665 datasets as a service to the machine learning community.
