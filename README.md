@@ -188,6 +188,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [STORM](https://github.com/stanford-oval/storm): LLM-powered research assistant that plans, retrieves sources, and drafts grounded long-form reports.
 - [DeepXiv SDK](https://github.com/DeepXiv/deepxiv_sdk): Research-agent SDK for paper discovery, progressive reading flows, and citation-aware synthesis over academic literature.
 - [ml-intern](https://github.com/huggingface/ml-intern): 🤗 Open-source ML engineer that reads papers, trains models, and ships ML models autonomously.
+- [Paper2Any](https://github.com/OpenDCAI/Paper2Any): Turn papers/text/topics into editable research figures, technical route diagrams, and presentation slides using multi-step agentic pipelines with LangGraph.
+- [RD-Agent](https://github.com/microsoft/RD-Agent): Microsoft's open-source research and development agent that automates data-driven AI R&D workflows — data exploration, feature engineering, model training, and reporting.
 
 #### Database
 - [UC Irvine Machine Learning](https://archive.ics.uci.edu): Currently maintain 665 datasets as a service to the machine learning community.
