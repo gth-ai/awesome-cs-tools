@@ -90,6 +90,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [open-swe](https://github.com/Upsonic/open-swe): Open-source autonomous coding agent that solves GitHub issues end-to-end — no cloud dependency.
 - [ICM](https://github.com/rtk-ai/icm): MCP-native persistent memory engine for AI agents, delivered as a single binary with zero dependencies.
 - [OpenBotX](https://github.com/openbotx/openbotx): Open-source platform for orchestrating AI agents from a web control panel. Multi-agent, real-time task board, skills marketplace, browser automation, scheduler — one command to start, no coding required.
+- [GenericAgent](https://github.com/lsdefine/GenericAgent): Self-evolving meta-agent that grows its own native skill tree from a 3.3K-line seed, achieving full system control with 6x less token consumption through its unique reflective learning loop.
+- [multica](https://github.com/multica-ai/multica): Open-source managed agents platform that turns coding agents into real teammates: assign tasks, track progress, compound skills across sessions, with a web dashboard and Docker self-hosting.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
