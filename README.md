@@ -142,6 +142,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Danswer](https://github.com/danswer-ai/danswer): Open-source enterprise AI assistant with connectors, access control, and production-ready RAG over internal knowledge bases.
 - [Pathway](https://github.com/pathwaycom/pathway): Python framework for real-time data pipelines supporting LLM apps, streaming retrieval, and production RAG workflows.
 - [Haystack](https://github.com/deepset-ai/haystack): End-to-end framework for LLM pipelines, RAG, agents, and retrieval orchestration.
+- [LightRAG](https://github.com/HKUDS/LightRAG): Graph-based RAG that's simple, fast, and production-ready — accepted at EMNLP 2025. ~28K stars.
 - [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your RAG pipelines.
 - [RAGs](https://github.com/run-llama/rags): RAGs is a Streamlit app that lets you create a RAG pipeline from a data source using natural language.
 - [RAGFlow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG engine based on deep document understanding.
@@ -150,8 +151,10 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [UltraRAG](https://github.com/OpenBMB/UltraRAG): Low-code framework for building advanced RAG pipelines and retrieval workflows.
 - [RAG-Anything](https://github.com/HKUDS/RAG-Anything): All-in-one multimodal RAG framework for parsing and retrieving across complex document types.
 - [GitNexus](https://github.com/abhigyanpatwari/GitNexus): Zero-server browser-based tool that transforms GitHub repos or ZIP files into interactive knowledge graphs with a built-in Graph RAG agent for code exploration.
+- [Graphiti](https://github.com/getzep/graphiti): Real-time temporal knowledge graphs for AI agents — dynamic state tracking, history, and relationships updated continuously. 25.4K stars.
 - [RAG-Lighter](https://github.com/stargazerwh/RAG-Lighter): Lightweight RAG framework with optimized retrieval and generation pipeline.
 - [GibRAM](https://github.com/gibram-io/gibram): In-memory knowledge graph server designed for RAG / GraphRAG workflows. Written in Go.
+- [WeKnora](https://github.com/Tencent/WeKnora): Go-based RAG/knowledge agent platform by Tencent with deep document understanding, multi-tenancy, and 32 releases. ~7.2K stars.
 
 > This section was created as a tribute to my mentor, a RAG godfather.
 
@@ -190,6 +193,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [ml-intern](https://github.com/huggingface/ml-intern): 🤗 Open-source ML engineer that reads papers, trains models, and ships ML models autonomously.
 - [Paper2Any](https://github.com/OpenDCAI/Paper2Any): Turn papers/text/topics into editable research figures, technical route diagrams, and presentation slides using multi-step agentic pipelines with LangGraph.
 - [RD-Agent](https://github.com/microsoft/RD-Agent): Microsoft's open-source research and development agent that automates data-driven AI R&D workflows — data exploration, feature engineering, model training, and reporting.
+- [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills): 23 autonomous research agent skills covering literature review, experiment design, data analysis, and paper writing — plug-and-play for LLM-based research workflows. 19.5K stars.
 
 #### Database
 - [UC Irvine Machine Learning](https://archive.ics.uci.edu): Currently maintain 665 datasets as a service to the machine learning community.
