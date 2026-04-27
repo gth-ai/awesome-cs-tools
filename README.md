@@ -73,6 +73,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Context Hub](https://github.com/andrewyng/context-hub): CLI by Andrew Ng that gives coding agents curated, versioned API docs with annotations and community feedback. Agents search, fetch, and learn from docs across sessions.
 - [DeepAgents](https://github.com/langchain-ai/deepagents): Agent harness with planning tool, filesystem backend, and ability to spawn subagents. By LangChain.
 - [everything-claude-code](https://github.com/affaan-m/everything-claude-code): Agent harness optimization toolkit — skills, memory, and security hardening for Claude Code, Codex, Cursor and beyond.
+- [awesome-ai-anatomy](https://github.com/NeuZhou/awesome-ai-anatomy): Source code teardowns of 15 AI coding agents (Claude Code, Dify, OpenHands, Cline, Goose, Codex CLI + more). Architecture diagrams, design patterns, fact-checked.
 - [last30days-skill](https://github.com/mvanhorn/last30days-skill): AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web — filtered to the last 30 days.
 - [CrewAI](https://github.com/crewAIInc/crewAI): Multi-agent orchestration framework for building autonomous workflows with role-based agents and tool use.
 - [VoltAgent](https://github.com/VoltAgent/voltagent): TypeScript AI agent engineering framework/platform with memory, RAG, guardrails, tools, MCP, and workflow support.
@@ -244,6 +245,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [impeccable](https://github.com/pbakaus/impeccable): The design language that makes your AI harness better at design. Makes vibe-coded UI look intentional.
 - [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2): Automate making money online — AI-powered content and revenue generation pipeline.
 - [MMORE](https://github.com/swiss-ai/mmore): Massive Multimodal Open RAG & Extraction. Scalable pipeline for processing, indexing, and querying multimodal documents (PDFs, videos, spreadsheets).
+- [Serena](https://github.com/oraios/serena): Powerful MCP toolkit for coding that gives AI agents IDE-level semantic understanding of your codebase (22.7K⭐).
+- [Archon](https://github.com/coleam00/Archon): First open-source harness builder for AI coding. Makes AI coding deterministic and repeatable (18.8K⭐, hit GitHub #1).
 
 ### API
 - [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
