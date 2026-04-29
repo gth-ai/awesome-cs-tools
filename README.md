@@ -145,6 +145,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Pathway](https://github.com/pathwaycom/pathway): Python framework for real-time data pipelines supporting LLM apps, streaming retrieval, and production RAG workflows.
 - [Haystack](https://github.com/deepset-ai/haystack): End-to-end framework for LLM pipelines, RAG, agents, and retrieval orchestration.
 - [LightRAG](https://github.com/HKUDS/LightRAG): Graph-based RAG that's simple, fast, and production-ready — accepted at EMNLP 2025. ~28K stars.
+- [M_Flow](https://github.com/FlowElement-ai/m_flow): Bio-inspired cognitive memory engine; a fundamentally new paradigm for Graph RAG with episodic + semantic memory.
 - [Ragas](https://github.com/explodinggradients/ragas): Ragas is a framework that helps you evaluate your RAG pipelines.
 - [RAGs](https://github.com/run-llama/rags): RAGs is a Streamlit app that lets you create a RAG pipeline from a data source using natural language.
 - [RAGFlow](https://github.com/infiniflow/ragflow): RAGFlow is an open-source RAG engine based on deep document understanding.
