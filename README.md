@@ -252,6 +252,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [MMORE](https://github.com/swiss-ai/mmore): Massive Multimodal Open RAG & Extraction. Scalable pipeline for processing, indexing, and querying multimodal documents (PDFs, videos, spreadsheets).
 - [Serena](https://github.com/oraios/serena): Powerful MCP toolkit for coding that gives AI agents IDE-level semantic understanding of your codebase (22.7K⭐).
 - [Archon](https://github.com/coleam00/Archon): First open-source harness builder for AI coding. Makes AI coding deterministic and repeatable (18.8K⭐, hit GitHub #1).
+- [Sourcebot](https://github.com/sourcebot-dev/sourcebot): Self-hosted code search engine for humans and AI agents; semantic + regex search across repositories with built-in MCP integration.
 
 ### API
 - [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
