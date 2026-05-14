@@ -187,6 +187,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Nexus](https://libstc.cc/#/):Help you to found any recent paper.
 - [deep-researcher](https://github.com/jackswl/deep-researcher): Deep research agent built on Claude Code's agentic framework. Plans, searches, and generates citation-backed reports autonomously.
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist): The first comprehensive system for fully automatic scientific discovery, enabling Foundation Models such as Large Language Models (LLMs) to perform research independently.
+- [MiroThinker](https://github.com/MiroMindAI/MiroThinker): Deep research agent scoring 74.0 on BrowseComp. Optimized for complex research + prediction tasks. Open weights.
 - [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2): Automated scientific discovery via agentic tree search — generates hypotheses, runs experiments, and writes papers autonomously.
 - [notebooklm-py](https://github.com/teng-lin/notebooklm-py): Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access via Python, CLI, and AI agents (Claude Code, Codex, OpenClaw).
 - [PDF-Extract-Kit](https://github.com/opendatalab/PDF-Extract-Kit):PDF documents contain a wealth of knowledge, yet extracting high-quality content from PDFs is not an easy task.
