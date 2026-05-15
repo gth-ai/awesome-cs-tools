@@ -160,6 +160,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [RAG-Lighter](https://github.com/stargazerwh/RAG-Lighter): Lightweight RAG framework with optimized retrieval and generation pipeline.
 - [GibRAM](https://github.com/gibram-io/gibram): In-memory knowledge graph server designed for RAG / GraphRAG workflows. Written in Go.
 - [WeKnora](https://github.com/Tencent/WeKnora): Go-based RAG/knowledge agent platform by Tencent with deep document understanding, multi-tenancy, and 32 releases. ~7.2K stars.
+- [LEANN](https://github.com/yichuan-w/LEANN): [MLSys 2026] Learned embedding approximation compresses vector indexes to ~3% of original size — 97% storage savings while maintaining retrieval accuracy. Fully offline, privacy-first.
 
 > This section was created as a tribute to my mentor, a RAG godfather.
 
