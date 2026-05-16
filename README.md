@@ -71,6 +71,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Agno](https://github.com/agno-agi/agno): Open-source framework for building and operating multi-agent systems with memory, tools, and workflow orchestration at scale.
 - [Awesome Agents](https://github.com/kyrolabs/awesome-agents): Curated list of open-source AI agent frameworks, tools, and production-ready projects across coding, automation, and research workflows.
 - [NullClaw](https://github.com/nullclaw/nullclaw): Ultra-lightweight AI assistant infrastructure written in Zig (678KB binary, 1MB RAM, 2ms boot). Supports 22+ AI providers, 13 channels, 18+ tools.
+- [MemPalace](https://github.com/MemPalace/mempalace): Best-benchmarked open-source AI agent memory system using chromadb with competitive recall across standard agent benchmarks. MCP-native. 52K+ stars in 6 weeks (MIT, Python).
+- [openfang](https://github.com/RightNow-AI/openfang): Open-source Agent Operating System written in Rust. Provides execution, orchestration, and sandboxing for autonomous AI agents. MCP-native. 17.5K+ stars (Apache-2.0).
 - [Composio](https://github.com/ComposioHQ/composio): Tool integration platform for AI agents with 1000+ toolkits, managed authentication, context management, and sandboxed workbench. Python & TypeScript SDKs.
 - [Context Hub](https://github.com/andrewyng/context-hub): CLI by Andrew Ng that gives coding agents curated, versioned API docs with annotations and community feedback. Agents search, fetch, and learn from docs across sessions.
 - [DeepAgents](https://github.com/langchain-ai/deepagents): Agent harness with planning tool, filesystem backend, and ability to spawn subagents. By LangChain.
