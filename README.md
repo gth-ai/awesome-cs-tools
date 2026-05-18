@@ -98,6 +98,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [GenericAgent](https://github.com/lsdefine/GenericAgent): Self-evolving meta-agent that grows its own native skill tree from a 3.3K-line seed, achieving full system control with 6x less token consumption through its unique reflective learning loop.
 - [multica](https://github.com/multica-ai/multica): Open-source managed agents platform that turns coding agents into real teammates: assign tasks, track progress, compound skills across sessions, with a web dashboard and Docker self-hosting.
 - [ESP-Claw](https://github.com/espressif/esp-claw): Chat Coding AI agent framework by Espressif (the ESP32 chip company), purpose-built for IoT and embedded devices. The first AI agent framework for microcontrollers and edge hardware.
+- [Neuron AI](https://github.com/neuron-core/neuron-ai): PHP agentic framework for production AI apps with LLM integration, vector DBs, memory, full Laravel support, and multi-agent orchestration. MIT, 1.9K⭐.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
