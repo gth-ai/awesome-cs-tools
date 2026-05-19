@@ -204,6 +204,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Paper2Any](https://github.com/OpenDCAI/Paper2Any): Turn papers/text/topics into editable research figures, technical route diagrams, and presentation slides using multi-step agentic pipelines with LangGraph.
 - [RD-Agent](https://github.com/microsoft/RD-Agent): Microsoft's open-source research and development agent that automates data-driven AI R&D workflows — data exploration, feature engineering, model training, and reporting.
 - [Scientific Agent Skills](https://github.com/K-Dense-AI/scientific-agent-skills): 23 autonomous research agent skills covering literature review, experiment design, data analysis, and paper writing — plug-and-play for LLM-based research workflows. 19.5K stars.
+- [Academic Research Skills](https://github.com/Imbad0202/academic-research-skills): Full academic pipeline for Claude Code — research → write → review → revise → finalize. 13.9K stars.
 
 #### Database
 - [UC Irvine Machine Learning](https://archive.ics.uci.edu): Currently maintain 665 datasets as a service to the machine learning community.
