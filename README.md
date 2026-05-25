@@ -37,6 +37,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [chandra](https://github.com/datalab-to/chandra): OCR model for complex tables, forms, and handwriting — handles documents that break traditional OCR.
 
 ### Open Source Agent Tools
+|- [Understand-Anything](https://github.com/Lum1104/Understand-Anything): Turn any codebase into an interactive, queryable knowledge graph for AI agents. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI. 30.2K⭐, 539 commits.
 - [cocoindex](https://github.com/cocoindex-io/cocoindex): Incremental engine for long-horizon agents with change data capture and real-time indexing, keeping agent context fresh across sessions (Apache-2.0, Python/Rust).
 - [graphify](https://github.com/safishamsi/graphify): Turn any codebase or document folder into a queryable knowledge graph for AI coding agents using tree-sitter, Leiden clustering, and GraphRAG.
 - [goose](https://github.com/block/goose): Open-source, extensible AI agent that can plan and execute development tasks (edit files, run commands, test) with multiple LLM backends.
@@ -99,6 +100,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [multica](https://github.com/multica-ai/multica): Open-source managed agents platform that turns coding agents into real teammates: assign tasks, track progress, compound skills across sessions, with a web dashboard and Docker self-hosting.
 - [ESP-Claw](https://github.com/espressif/esp-claw): Chat Coding AI agent framework by Espressif (the ESP32 chip company), purpose-built for IoT and embedded devices. The first AI agent framework for microcontrollers and edge hardware.
 - [Neuron AI](https://github.com/neuron-core/neuron-ai): PHP agentic framework for production AI apps with LLM integration, vector DBs, memory, full Laravel support, and multi-agent orchestration. MIT, 1.9K⭐.
+- [oh-my-pi](https://github.com/can1357/oh-my-pi): AI coding agent for the terminal with hash-anchored deterministic edits, optimized tool harness, LSP, Python, browser, and subagents. Mature (v15.3.1, 5,935 commits, 617 tags). 7.3K⭐.
 - [openhuman](https://github.com/tinyhumansai/openhuman): Personal AI superintelligence by Tiny Humans AI. Private, on-device, extremely active (2,180 commits, 24.6K⭐). Combines agent orchestration, tool use, and multi-provider support in a self-hostable package.
 
 ### Free Alternative App to ChatGPT:
