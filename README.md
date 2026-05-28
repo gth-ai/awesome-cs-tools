@@ -228,6 +228,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 
 ## Dev
 ### Open Source Tools
+- [LangAlpha](https://github.com/ginlix-ai/langalpha): Claude Code for Finance — AI coding agent purpose-built for quantitative finance workflows, Wall Street use cases, and financial data analysis.
 - [AionUi](https://github.com/iOfficeAI/AionUi): Free, open-source multi-AI agent desktop app — cross-platform cowork environment for Gemini CLI, Claude Code, Codex, Goose, and more with built-in file management and preview panels.
 - [GitHub Agentic Workflows (gh-aw)](https://github.com/github/gh-aw): CLI toolkit for running agentic workflows integrated with GitHub development lifecycle.
 - [OpenAI Skills Catalog (Codex Skills)](https://github.com/openai/skills): Reusable skills catalog for coding agents, with practical patterns for tool-enabled coding workflows.
