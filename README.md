@@ -39,6 +39,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 ### Open Source Agent Tools
 |- [Understand-Anything](https://github.com/Lum1104/Understand-Anything): Turn any codebase into an interactive, queryable knowledge graph for AI agents. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI. 30.2K⭐, 539 commits.
 - [cocoindex](https://github.com/cocoindex-io/cocoindex): Incremental engine for long-horizon agents with change data capture and real-time indexing, keeping agent context fresh across sessions (Apache-2.0, Python/Rust).
+- [agentic-inbox](https://github.com/cloudflare/agentic-inbox): Cloudflare’s open-source framework for autonomous email workflows — triage, route, and execute actions from inbox signals with agentic logic.
 - [graphify](https://github.com/safishamsi/graphify): Turn any codebase or document folder into a queryable knowledge graph for AI coding agents using tree-sitter, Leiden clustering, and GraphRAG.
 - [goose](https://github.com/block/goose): Open-source, extensible AI agent that can plan and execute development tasks (edit files, run commands, test) with multiple LLM backends.
 - [Mastra](https://github.com/mastra-ai/mastra): TypeScript framework to build production AI agents and workflows with memory, tools, and eval support.
