@@ -37,6 +37,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [chandra](https://github.com/datalab-to/chandra): OCR model for complex tables, forms, and handwriting — handles documents that break traditional OCR.
 
 ### Open Source Agent Tools
+- [open-slide](https://github.com/1weiho/open-slide): Agent-first slide framework to generate and iterate decks with AI workflows.
 |- [Understand-Anything](https://github.com/Lum1104/Understand-Anything): Turn any codebase into an interactive, queryable knowledge graph for AI agents. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI. 30.2K⭐, 539 commits.
 - [cocoindex](https://github.com/cocoindex-io/cocoindex): Incremental engine for long-horizon agents with change data capture and real-time indexing, keeping agent context fresh across sessions (Apache-2.0, Python/Rust).
 - [agentic-inbox](https://github.com/cloudflare/agentic-inbox): Cloudflare’s open-source framework for autonomous email workflows — triage, route, and execute actions from inbox signals with agentic logic.
