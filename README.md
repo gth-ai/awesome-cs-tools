@@ -187,6 +187,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
   
 #### Tools
 - [ResearchHarness](https://github.com/black-yt/ResearchHarness): Trusted-local harness for research agents with real tool use, end-to-end evaluation, and training-data collection.
+- [Mercury MCP](https://github.com/norika1207-lab/mercury-mcp): Cross-architecture LLM internal-observation database exposed as MCP tools for agents.
 - [MarkItDown](https://github.com/microsoft/markitdown): Converts diverse document formats (PDF, PPTX, DOCX, etc.) into clean Markdown for LLM and RAG pipelines.
 - [Medecine](https://github.com/primakov/precision-medicine-toolbox): precision-medicine-toolbox is an open-source python package for medical imaging data preparation for data science tasks. This package is aimed to provide a tool to curate the imaging data and to perform exploratory feature analysis.
 - [Dexter](https://github.com/virattt/dexter): Autonomous financial research agent with intelligent task planning, self-validation, and real-time market data access (income statements, balance sheets).
