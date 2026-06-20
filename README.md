@@ -38,6 +38,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 
 ### Open Source Agent Tools
 - [LeanCTX](https://github.com/yvgude/lean-ctx): Local Rust context layer for AI agents that gates visible files, remembers useful context, audits changes, and cuts token load.
+- [llmtrim](https://github.com/fkiene/llmtrim): Self-hosted Rust tool that compresses LLM prompts, tool outputs, and replies behind a local proxy, MCP server, CLI, or library, quality-gated to cut token load without losing answers.
 - [open-slide](https://github.com/1weiho/open-slide): Agent-first slide framework to generate and iterate decks with AI workflows.
 - [Understand-Anything](https://github.com/Lum1104/Understand-Anything): Turn any codebase into an interactive, queryable knowledge graph for AI agents. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI. 30.2K⭐, 539 commits.
 - [cocoindex](https://github.com/cocoindex-io/cocoindex): Incremental engine for long-horizon agents with change data capture and real-time indexing, keeping agent context fresh across sessions (Apache-2.0, Python/Rust).
