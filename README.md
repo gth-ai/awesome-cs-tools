@@ -126,6 +126,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 
 ### Image Generation
 - [FLUX](https://blackforestlabs.ai/#get-flux): offering state-of-the-art performance image generation with top of the line prompt following, visual quality, image detail and output diversity.
+- [TinyTools](https://tinytools-smoky.vercel.app/): Free, browser-based AI utilities — includes AI background remover (runs locally, no upload), OG image generator, favicon generator, color palette generator, AI cost calculator, EU AI Act compliant content disclosure generator, SEO meta tag generator, and domain name generator. No signup. Open source.
 
   
 ### Free Courses and Resources
