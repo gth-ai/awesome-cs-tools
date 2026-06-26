@@ -154,6 +154,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [DSPy](https://github.com/stanfordnlp/dspy): LLM programming framework from Stanford for declarative prompting, optimization, and reliable pipelines.
   
 #### RAG (Retrieval-Augmented Generation)
+- [PixelRAG](https://github.com/StarTrail-org/PixelRAG): Pixel-native multimodal RAG for scalable web research using screenshots and VLMs instead of traditional text extraction.
 - [Danswer](https://github.com/danswer-ai/danswer): Open-source enterprise AI assistant with connectors, access control, and production-ready RAG over internal knowledge bases.
 - [Pathway](https://github.com/pathwaycom/pathway): Python framework for real-time data pipelines supporting LLM apps, streaming retrieval, and production RAG workflows.
 - [Haystack](https://github.com/deepset-ai/haystack): End-to-end framework for LLM pipelines, RAG, agents, and retrieval orchestration.
