@@ -190,6 +190,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
   
 #### Tools
 - [Open Paper](https://github.com/khoj-ai/openpaper): AI-assisted research workbench for managing papers, annotations, and literature reviews in one place.
+- [PRISMA Literature Review Pipeline](https://github.com/CarinaSchoppe/PISMA-Literature-Review-Pipeline-Automation-Tool): Reproducible systematic-review pipeline with citation expansion, AI-assisted screening, PDF acquisition, CLI, and GUI.
 - [ResearchClaw](https://github.com/ymx10086/ResearchClaw): Local-first research OS for papers, notes, experiments, chat bridges, skills, and MCP.
 - [AI Research Skills](https://github.com/WenyuChiou/ai-research-skills): Cross-agent SKILL.md catalog for literature review, research design, writing, and delegation.
 - [ResearchHarness](https://github.com/black-yt/ResearchHarness): Trusted-local harness for research agents with real tool use, end-to-end evaluation, and training-data collection.
