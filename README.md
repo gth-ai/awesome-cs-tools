@@ -241,6 +241,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 
 ## Dev
 ### Open Source Tools
+- [Chrome MCP Server](https://github.com/hangwin/mcp-chrome): Chrome extension-based MCP server exposing browser automation, content analysis, and semantic search to AI assistants.
 - [LangAlpha](https://github.com/ginlix-ai/langalpha): Claude Code for Finance — AI coding agent purpose-built for quantitative finance workflows, Wall Street use cases, and financial data analysis.
 - [AionUi](https://github.com/iOfficeAI/AionUi): Free, open-source multi-AI agent desktop app — cross-platform cowork environment for Gemini CLI, Claude Code, Codex, Goose, and more with built-in file management and preview panels.
 - [GitHub Agentic Workflows (gh-aw)](https://github.com/github/gh-aw): CLI toolkit for running agentic workflows integrated with GitHub development lifecycle.
