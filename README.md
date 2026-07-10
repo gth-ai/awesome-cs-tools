@@ -190,6 +190,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [Awesome DeepBio](https://github.com/gokceneraslan/awesome-deepbio): A curated list of awesome deep learning applications in the field of computational biology.
   
 #### Tools
+- [PaperSeek](https://github.com/MingfengHong/paperseek): Literature-search agent that rewrites queries, expands citation candidates, ranks papers, and exports reproducible evidence.
 - [Open Paper](https://github.com/khoj-ai/openpaper): AI-assisted research workbench for managing papers, annotations, and literature reviews in one place.
 - [PRISMA Literature Review Pipeline](https://github.com/CarinaSchoppe/PISMA-Literature-Review-Pipeline-Automation-Tool): Reproducible systematic-review pipeline with citation expansion, AI-assisted screening, PDF acquisition, CLI, and GUI.
 - [ResearchClaw](https://github.com/ymx10086/ResearchClaw): Local-first research OS for papers, notes, experiments, chat bridges, skills, and MCP.
