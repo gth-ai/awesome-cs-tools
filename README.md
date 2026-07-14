@@ -37,6 +37,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [chandra](https://github.com/datalab-to/chandra): OCR model for complex tables, forms, and handwriting — handles documents that break traditional OCR.
 
 ### Open Source Agent Tools
+- [Gortex](https://github.com/zzet/gortex): Code-intelligence engine that indexes repositories into a graph and exposes focused context to AI agents via CLI, MCP server, and API.
 - [LeanCTX](https://github.com/yvgude/lean-ctx): Local Rust context layer for AI agents that gates visible files, remembers useful context, audits changes, and cuts token load.
 - [llmtrim](https://github.com/fkiene/llmtrim): Self-hosted Rust tool that compresses LLM prompts, tool outputs, and replies behind a local proxy, MCP server, CLI, or library, quality-gated to cut token load without losing answers.
 - [open-slide](https://github.com/1weiho/open-slide): Agent-first slide framework to generate and iterate decks with AI workflows.
