@@ -49,6 +49,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [goose](https://github.com/block/goose): Open-source, extensible AI agent that can plan and execute development tasks (edit files, run commands, test) with multiple LLM backends.
 - [Mastra](https://github.com/mastra-ai/mastra): TypeScript framework to build production AI agents and workflows with memory, tools, and eval support.
 - [PydanticAI](https://github.com/pydantic/pydantic-ai): Python agent framework focused on type-safe LLM apps with Pydantic models, tools, and structured outputs.
+- [agents](https://github.com/ed-donner/agents): Repository and toolkit for Complete Agentic AI Engineering, covering agent architecture, orchestration patterns, and production deployment strategies.
 - [OpenManus](https://github.com/mannaandpoem/OpenManus): is an open-source project aimed at replicating the capabilities of the Manus AI agent, a groundbreaking general-purpose AI developed by Monica. 
 - [ANUS](https://github.com/nikmcfly/ANUS): is a powerful, flexible, and accessible open-source AI agent framework designed to revolutionize task automation. Built with modern AI technologies and best practices, Anus represents the next generation of AI agent frameworks, offering unparalleled capabilities and ease of use.
 - [OWL](https://github.com/camel-ai/owl): OWL is a cutting-edge framework for multi-agent collaboration that pushes the boundaries of task automation, built on top of the CAMEL-AI Framework.
