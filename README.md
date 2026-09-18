@@ -1,4 +1,3 @@
-
 ![Awesome CS Tools](ezgif-2-f5236de7c3.jpg) 
 # Awesome CS Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/gth-ai/awesome-cs-tools) [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/gth-ai/awesome-cs-tools)
 
@@ -310,4 +309,4 @@ We welcome contributions to this list! Please submit a pull request or open an i
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. Copyright (c) 2024 gth.
