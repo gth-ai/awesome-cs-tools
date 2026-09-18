@@ -111,6 +111,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [oh-my-pi](https://github.com/can1357/oh-my-pi): AI coding agent for the terminal with hash-anchored deterministic edits, optimized tool harness, LSP, Python, browser, and subagents. Mature (v15.3.1, 5,935 commits, 617 tags). 7.3K⭐.
 - [openhuman](https://github.com/tinyhumansai/openhuman): Personal AI superintelligence by Tiny Humans AI. Private, on-device, extremely active (2,180 commits, 24.6K⭐). Combines agent orchestration, tool use, and multi-provider support in a self-hostable package.
 
+- [Orkas](https://github.com/Orkas-AI/Orkas): Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
 - [HuggingFaceChat](https://huggingface.co/chat/assistants): Free alternative to GPTs of ChatGPT.
