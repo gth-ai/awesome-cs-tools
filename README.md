@@ -37,6 +37,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [chandra](https://github.com/datalab-to/chandra): OCR model for complex tables, forms, and handwriting — handles documents that break traditional OCR.
 
 ### Open Source Agent Tools
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — drop-in recorder that sits between your agent and the model provider.
 - [deja-vu](https://github.com/vshulcz/deja-vu): Local memory layer that searches coding-agent session logs and exposes cross-session recall over MCP.
 - [Gortex](https://github.com/zzet/gortex): Code-intelligence engine that indexes repositories into a graph and exposes focused context to AI agents via CLI, MCP server, and API.
 - [LeanCTX](https://github.com/yvgude/lean-ctx): Local Rust context layer for AI agents that gates visible files, remembers useful context, audits changes, and cuts token load.
