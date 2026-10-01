@@ -113,6 +113,8 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 
 - [Orkas](https://github.com/Orkas-AI/Orkas): Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
 
+- [YYLO](https://github.com/yylo-dev/yylo): Terminal-native orchestrator for AI coding agents — Kanban, task worktrees, and typed merge flows across agent sessions.
+
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
 - [HuggingFaceChat](https://huggingface.co/chat/assistants): Free alternative to GPTs of ChatGPT.
