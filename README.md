@@ -112,6 +112,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [openhuman](https://github.com/tinyhumansai/openhuman): Personal AI superintelligence by Tiny Humans AI. Private, on-device, extremely active (2,180 commits, 24.6K⭐). Combines agent orchestration, tool use, and multi-provider support in a self-hostable package.
 
 - [Orkas](https://github.com/Orkas-AI/Orkas): Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+- [Orbi](https://github.com/orbi-build/orbi): Open-source agent that takes a labeled GitHub issue to a reviewed, merged pull request and a tagged release; also runs ops tickets (AGPL-3.0, Python).
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
