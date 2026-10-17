@@ -289,6 +289,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 
 ### API
 - [Public APIs](https://github.com/public-apis/public-apis): The Public APIs repository is manually curated by community members like you and folks working at APILayer. It includes an extensive list of public APIs from many domains that you can use for your own products.
+- [CurlShot](https://curlshot.com): Hosted screenshot API. One GET request turns a URL or HTML into a PNG, JPEG, WebP or PDF (full page, device presets, dark mode). Free plan with 100 screenshots/month, no credit card.
 
 ## Security
 
