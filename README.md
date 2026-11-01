@@ -37,6 +37,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [chandra](https://github.com/datalab-to/chandra): OCR model for complex tables, forms, and handwriting — handles documents that break traditional OCR.
 
 ### Open Source Agent Tools
+- [agent-qa](https://vostride.com): vostride's natural-language QA agent for web, Android and iOS apps, with memidex persistent memory, validated self-improvement, CLI/MCP workflows, and reviewable evidence. [Source](https://github.com/vostride/agent-qa) under FSL-1.1-ALv2; free CLI with separate model-provider costs.
 - [deja-vu](https://github.com/vshulcz/deja-vu): Local memory layer that searches coding-agent session logs and exposes cross-session recall over MCP.
 - [Gortex](https://github.com/zzet/gortex): Code-intelligence engine that indexes repositories into a graph and exposes focused context to AI agents via CLI, MCP server, and API.
 - [LeanCTX](https://github.com/yvgude/lean-ctx): Local Rust context layer for AI agents that gates visible files, remembers useful context, audits changes, and cuts token load.
