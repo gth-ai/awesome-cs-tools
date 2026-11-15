@@ -112,6 +112,7 @@ You can join our official [Telegram Chanel](https://t.me/awesomecstools) to stay
 - [openhuman](https://github.com/tinyhumansai/openhuman): Personal AI superintelligence by Tiny Humans AI. Private, on-device, extremely active (2,180 commits, 24.6K⭐). Combines agent orchestration, tool use, and multi-provider support in a self-hostable package.
 
 - [Orkas](https://github.com/Orkas-AI/Orkas): Open-source, local-first desktop AI workforce coordinated by a Commander through one chat.
+- [youtube-transcript-skills](https://github.com/tubeagentkit/youtube-transcript-skills): MIT agent skill for Claude Code, Codex, Cursor and OpenClaw that fetches YouTube transcripts with optional timestamps and searches videos and channels, via the GetYouTubeTranscript API.
 
 ### Free Alternative App to ChatGPT:
 - [Chat-SUTRA](https://chat.two.ai/): A low-cost language model designed to master over 30 languages, including underserved South Asian languages such as Gujarati, Marathi, Tamil and Telugu.
